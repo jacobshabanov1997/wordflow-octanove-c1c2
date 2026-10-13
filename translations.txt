@@ -1,0 +1,1971 @@
+exterior|noun || внешняя сторона (поверхность) || exterior; outside; outer surface
+cloak|noun || плащ || cloak; cape
+timid|adjective || робкий || timid; shy; fearful
+reluctantly|adverb || неохотно || reluctantly; unwillingly; grudgingly
+concur|verb || соглашаться (с мнением) || concur; agree
+avid|adjective || страстный (о увлечении) || avid; keen; enthusiastic
+marvel|verb || восхищаться, поражаться || marvel; be amazed; wonder
+enviable|adverb || SKIP
+organizational|adjective || организационный || organizational; organisational
+psychiatrist|noun || психиатр || psychiatrist
+psychiatric|adjective || психиатрический || psychiatric
+clinical|adjective || клинический || clinical
+corps|noun || корпус (воинское или иное формирование) || corps
+forensic|adjective || судебный (экспертиза) || forensic
+juvenile|noun || несовершеннолетний || juvenile; minor; young offender
+juvenile|adjective || ювенильный, детский || juvenile; youthful
+jurisdiction|noun || юрисдикция || jurisdiction
+accustomed|adjective || привыкший || accustomed; used to
+trauma|noun || травма (психическая) || trauma
+traumatic|adjective || травмирующий || traumatic
+constraint|noun || ограничение (вынужденное) || constraint; restriction; limitation
+revealing|adjective || откровенный (о одежде) || revealing; low-cut
+eccentric|adjective || эксцентричный || eccentric; quirky; odd
+sanctity|noun || святость, неприкосновенность || sanctity; sacredness
+conform|verb || соответствовать (нормам) || conform; comply
+norms|noun || нормы (общественные) || norms; standards
+quirk|noun || причуда || quirk; oddity; idiosyncrasy
+oddity|noun || странность (необычная вещь) || oddity; curiosity; peculiarity
+compel|verb || принуждать || compel; force; oblige
+compulsion|noun || непреодолимое влечение || compulsion; urge; obsession
+assertion|noun || утверждение (заявление) || assertion; claim; statement
+individuality|noun || индивидуальность || individuality; uniqueness
+psyche|noun || психика || psyche; mind
+conformity|noun || приспособленчество, соответствие || conformity; compliance
+unconventional|adjective || нестандартный || unconventional; unorthodox; unusual
+congregate|verb || собираться (толпой) || congregate; gather; assemble
+rally|verb || сплачиваться, мобилизоваться || rally; unite; gather
+resent|verb || негодовать (на кого-то) || resent; begrudge
+self-conscious|adjective || стеснительный (скованный) || self-conscious; embarrassed; awkward
+wary|adjective || настороженный || wary; cautious; careful
+stoke|verb || разжигать (огонь, чувства) || stoke; fuel; stir up
+dynamically|adverb || динамично || dynamically
+hostess|noun || хозяйка (приёма) || hostess
+perpetuate|verb || увековечивать (сохранять надолго) || perpetuate; maintain; preserve
+naturalness|noun || естественность || naturalness; spontaneity
+exhibitionist|noun || эксгибиционист || exhibitionist; show-off
+isolate|verb || изолировать || isolate; separate; cut off
+isolated|adjective || уединённый, изолированный || isolated; remote; secluded
+humble|verb || унижать (сбивать спесь) || humble; humiliate
+refreshingly|adverb || освежающе, приятно || refreshingly
+effortless|adjective || лёгкий (без усилий) || effortless; easy; smooth
+vegetation|noun || растительность || vegetation; plants
+brief|verb || инструктировать || brief; inform; instruct
+respite|noun || передышка || respite; break; breather; relief
+suffice|verb || хватать (быть достаточным) || suffice; be enough; be sufficient
+purity|noun || чистота (незапятнанность) || purity
+gruelling|adjective || изнурительный || grueling; gruelling; exhausting; punishing
+comprise|verb || состоять из, включать в себя || comprise; consist of; include
+plaster|noun || штукатурка || plaster
+plaster|verb || штукатурить || plaster
+darkroom|noun || фотолаборатория (тёмная комната) || darkroom
+induct|verb || торжественно принимать (в организацию) || induct; initiate; admit
+induction|noun || введение в должность, индукция || induction; initiation
+stock|verb || запасать (товар) || stock; supply; keep in stock
+fossil|noun || окаменелость || fossil
+geological|adjective || геологический || geological
+geologically|adverb || геологически || geologically
+house|verb || размещать (вмещать) || house; accommodate; shelter
+specimen|noun || образец (экземпляр) || specimen; sample
+enormously|adverb || чрезвычайно, огромно || enormously; hugely; immensely
+gem|noun || драгоценный камень || gem; jewel; gemstone
+explanatory|adjective || пояснительный || explanatory
+vertical|adjective || вертикальный || vertical; upright
+knowledgeable|adjective || сведущий || knowledgeable; well-informed
+ordinarily|adverb || обычно, как правило || ordinarily; usually; normally
+hanging|noun || подвесной предмет, казнь через повешение || hanging
+formulate|verb || формулировать || formulate; articulate; devise
+resin|noun || смола || resin
+sacrifice|noun || жертва (пожертвование чем-то) || sacrifice
+sacrifice|verb || жертвовать || sacrifice
+cleanly|adverb || чисто (аккуратно) || cleanly; neatly
+endorsement|noun || одобрение, поддержка || endorsement; approval; backing
+stretching|noun || растяжка (упражнения) || stretching
+continuity|noun || непрерывность || continuity
+shambles|noun || бардак, хаос || shambles; mess; chaos
+claustrophobic|adjective || клаустрофобный, тесный || claustrophobic
+claustrophobia|noun || клаустрофобия || claustrophobia
+headstrong|adjective || своенравный || headstrong; willful; stubborn
+tact|noun || тактичность || tact; diplomacy
+tactful|adjective || тактичный || tactful; diplomatic
+tactfully|adverb || тактично || tactfully; diplomatically
+blister|noun || волдырь, мозоль (водяная) || blister
+blister|verb || покрываться волдырями || blister
+sponsorship|noun || спонсорство || sponsorship
+ego|noun || эго, самолюбие || ego
+class|verb || относить к категории || class; classify; categorize
+saloon|noun || салун, бар (в вестерне) || saloon; bar
+beforehand|adverb || заранее || beforehand; in advance; ahead of time
+slob|noun || неряха || slob; slacker
+coverage|noun || освещение (в СМИ) || coverage; reporting
+unplug|verb || отключать от розетки || unplug; disconnect
+gadget|noun || гаджет || gadget; device
+rediscover|verb || открыть заново || rediscover
+subtly|adverb || тонко (едва заметно) || subtly; delicately
+brainwash|verb || промывать мозги || brainwash
+brainwashing|noun || промывание мозгов || brainwashing
+implicate|verb || впутывать, замешивать (в преступление) || implicate; involve; incriminate
+craft|verb || мастерски создавать || craft; make; create
+malfunction|verb || давать сбой, неисправно работать || malfunction; break down; fail
+dependent|noun || иждивенец || dependent
+wayside|noun || обочина || wayside; roadside
+expire|verb || истекать (о сроке) || expire; run out; lapse
+con|verb || обманывать (мошенничать) || con; swindle; trick; scam
+con|noun || афера (мошенничество) || con; scam; swindle
+puzzle|verb || озадачивать || puzzle; baffle; perplex
+damply|adverb || сыро, влажно || damply; moistly
+ghostly|adjective || призрачный || ghostly; eerie; spectral
+carrier|noun || перевозчик, носитель (болезни) || carrier
+washtub|noun || корыто (для стирки) || washtub; tub
+apt|adjective || подходящий, уместный || apt; fitting; appropriate
+apt to|verb || быть склонным к (чему-то) || be apt to; tend to; be inclined to
+portable|adjective || портативный || portable
+portable|noun || переносное устройство (бытовка, телевизор) || portable
+ornamental|adjective || декоративный || ornamental; decorative
+placid|adjective || безмятежный, спокойный || placid; calm; serene
+placidly|adverb || безмятежно || placidly; calmly
+unmanageable|adjective || неуправляемый || unmanageable; uncontrollable
+appliance|noun || бытовой прибор || appliance; household device
+relinquish|verb || отказываться от (власти, прав) || relinquish; give up; surrender
+tedious|adjective || нудный || tedious; boring; dull
+tedium|noun || скука (однообразие) || tedium; boredom; monotony
+exert|verb || прилагать (усилия), оказывать (влияние) || exert; apply; use
+extortion|noun || вымогательство || extortion; blackmail
+alleviate|verb || облегчать (боль, проблему) || alleviate; relieve; ease
+elaborate|adjective || сложный, детально проработанный || elaborate; detailed; intricate
+elaborate|verb || подробно разъяснять || elaborate; expand; explain in detail
+elaboration|noun || детальная разработка || elaboration
+detest|verb || ненавидеть (испытывать отвращение) || detest; loathe; hate
+detestable|adjective || отвратительный (достойный ненависти) || detestable; hateful; loathsome
+suds|noun || мыльная пена || suds; lather; foam
+agreeable|adjective || приятный (покладистый) || agreeable; pleasant; amenable
+prowl|verb || красться, рыскать || prowl; lurk; stalk
+speculate|verb || строить догадки || speculate; guess; conjecture
+speculation|noun || предположение, спекуляция || speculation; guesswork
+speculative|adjective || умозрительный, гадательный || speculative; theoretical
+peacock|noun || павлин || peacock
+disdain|noun || презрение (высокомерное) || disdain; contempt; scorn
+reenact|verb || воссоздавать (инсценировать) || reenact; re-enact; recreate
+torment|verb || мучить || torment; torture; plague
+torment|noun || мучение || torment; agony; torture
+extravagance|noun || расточительность || extravagance; lavishness
+exploitation|noun || эксплуатация || exploitation
+mechanism|noun || механизм || mechanism
+hence|adverb || следовательно, отсюда || hence; therefore; thus
+offspring|noun || потомство || offspring; descendants
+oblige|verb || обязывать, делать одолжение || oblige; require; compel
+collaborate|verb || сотрудничать || collaborate; cooperate; work together
+collaborator|noun || соавтор, сотрудник || collaborator; partner; co-worker
+collaboration|noun || сотрудничество || collaboration; cooperation; teamwork
+collaborative|adjective || совместный || collaborative; joint; cooperative
+showy|adjective || показной, эффектный || showy; flashy; ostentatious
+wrangle|verb || препираться || wrangle; squabble; quarrel
+premise|noun || предпосылка || premise; assumption; basis
+advantageous|adjective || выгодный || advantageous; beneficial; favorable
+parasite|noun || паразит || parasite
+fanciful|adjective || причудливый, фантастический || fanciful; whimsical; imaginary
+poise|noun || самообладание, грациозность || poise; composure; grace
+customary|adjective || привычный, общепринятый || customary; usual; traditional
+insightful|adjective || проницательный || insightful; perceptive; discerning
+notable|adjective || заметный, примечательный || notable; remarkable; noteworthy
+vicious|adjective || жестокий, злобный || vicious; brutal; savage; cruel
+viciously|adverb || жестоко, злобно || viciously; brutally; savagely
+withdrawn|adjective || замкнутый (отстранённый) || withdrawn; introverted; reserved
+torturous|adjective || мучительный || torturous; agonizing; painful
+depict|verb || изображать (в искусстве) || depict; portray; represent
+depiction|noun || изображение, описание || depiction; portrayal
+upheaval|noun || потрясение, переворот || upheaval; upset; disruption
+shortlist|verb || включать в короткий список || shortlist; short-list
+shortlist|noun || короткий список (кандидатов) || shortlist; short list
+uneventful|adjective || ничем не примечательный || uneventful; quiet; dull
+pertinent|adjective || уместный (по делу) || pertinent; relevant; applicable
+pertain to|verb || относиться к (иметь отношение) || pertain to; relate to; concern
+daydream|noun || мечта наяву || daydream; reverie
+daydream|verb || грезить наяву || daydream; fantasize
+protagonist|noun || главный герой || protagonist; main character; hero
+simplicity|noun || простота || simplicity
+blockbuster|noun || блокбастер || blockbuster
+resonate|verb || находить отклик, резонировать || resonate; echo; strike a chord
+sequel|noun || продолжение (фильма, книги) || sequel
+irony|noun || ирония || irony
+acidic|adjective || кислый, едкий || acidic; sour; sharp
+align|verb || выравнивать, согласовывать || align; line up; coordinate
+alignment|noun || выравнивание, согласование || alignment
+manipulation|noun || манипуляция || manipulation
+suitor|noun || ухажёр, поклонник || suitor; admirer; wooer
+deceit|noun || обман (лживость) || deceit; deception; dishonesty
+alienate|verb || отчуждать, отталкивать || alienate; estrange; isolate
+persuasively|adverb || убедительно || persuasively; convincingly
+confinement|noun || заточение, ограничение свободы || confinement; imprisonment
+minutiae|noun || мелкие детали || minutiae; fine details; trivia
+peasant|noun || крестьянин || peasant
+inexplicable|adjective || необъяснимый || inexplicable; unexplainable; baffling
+inexplicably|adverb || необъяснимо || inexplicably; mysteriously
+pigeon|noun || голубь || pigeon
+harass|verb || преследовать, донимать || harass; pester; hound
+harassment|noun || домогательство, травля || harassment
+believably|adverb || правдоподобно || believably; credibly; plausibly
+readable|adjective || читабельный, легко читаемый || readable; legible
+cleverness|noun || сообразительность || cleverness; smartness; ingenuity
+persecute|verb || преследовать (за убеждения) || persecute; oppress
+persecution|noun || преследование (за убеждения) || persecution; oppression
+smug|adjective || самодовольный || smug; complacent; self-satisfied
+smugly|adverb || самодовольно || smugly; complacently
+ferocious|adjective || свирепый || ferocious; fierce; savage
+ferociously|adverb || свирепо || ferociously; fiercely
+hostile|adjective || враждебный || hostile; unfriendly; antagonistic
+hostility|noun || враждебность || hostility; animosity; enmity
+dismay|verb || приводить в уныние, ужасать || dismay; appall; distress
+dismay|noun || смятение, уныние || dismay; consternation; distress
+methodical|adjective || методичный || methodical; systematic; orderly
+ruthless|adjective || безжалостный || ruthless; merciless; cruel
+ruthlessness|noun || безжалостность || ruthlessness; cruelty
+awe|verb || внушать благоговение || awe; amaze; impress
+clan|noun || клан, род || clan; tribe
+privileged|adjective || привилегированный || privileged; advantaged
+crumble|verb || крошиться, разрушаться || crumble; disintegrate; fall apart
+crumb|noun || крошка || crumb
+pace|verb || ходить взад-вперёд || pace; walk up and down
+closeness|noun || близость (душевная) || closeness; intimacy
+rarity|noun || редкость || rarity
+evoke|verb || вызывать (воспоминания, чувства) || evoke; summon up; call up
+repel|verb || отталкивать, отпугивать || repel; repulse; drive away
+repellant|noun || репеллент, средство от насекомых || repellent; repellant; insect repellent
+repellant|adjective || отталкивающий || repellent; repellant; repulsive
+aqua|adjective || цвета морской волны || aqua; turquoise
+aquarium|noun || аквариум || aquarium; fish tank
+insightfully|adverb || проницательно || insightfully; perceptively
+flashback|noun || флешбэк, ретроспекция || flashback
+self-worth|noun || чувство собственной ценности || self-worth; self-esteem
+cite|verb || ссылаться на, цитировать || cite; quote; refer to
+citation|noun || цитата, ссылка || citation; quotation; reference
+ecstatically|adverb || в экстазе, восторженно || ecstatically; rapturously
+pleasurable|adjective || приятный (доставляющий удовольствие) || pleasurable; enjoyable
+substantially|adverb || существенно, значительно || substantially; considerably; significantly
+favorably|adverb || благосклонно, благоприятно || favorably; favourably; positively
+diversity|noun || разнообразие || diversity; variety
+elitist|noun || элитарист, сторонник элитарности || elitist
+grumble|verb || ворчать || grumble; complain; moan
+rumble|verb || греметь, грохотать || rumble; thunder; growl
+rumble|noun || грохот, гул || rumble; roar
+neglectful|adjective || пренебрегающий (обязанностями) || neglectful; negligent; careless
+roundup|noun || сводка, обзор новостей || roundup; summary; digest
+conscientious|adjective || добросовестный || conscientious; diligent; careful
+conscientiously|adverb || добросовестно || conscientiously; diligently
+indefinite|adjective || неопределённый || indefinite; unspecified; vague
+indefinitely|adverb || бессрочно, неопределённо долго || indefinitely
+atmospheric|adjective || атмосферный (создающий настроение) || atmospheric; moody
+fuse|verb || сплавлять, соединять || fuse; merge; blend
+fusion|noun || слияние, синтез || fusion; merger; blend
+robust|adjective || крепкий, надёжный || robust; sturdy; strong
+robustly|adverb || крепко, основательно || robustly; sturdily
+dismal|adjective || унылый, мрачный || dismal; gloomy; bleak
+dismally|adverb || уныло, плачевно || dismally; gloomily; miserably
+crave|verb || жаждать, сильно хотеть || crave; long for; yearn for
+craving|noun || сильное желание, тяга || craving; longing; yearning
+prospective|adjective || будущий, потенциальный || prospective; potential; future
+swap|verb || обмениваться || swap; exchange; trade
+remotely|adverb || удалённо, отдалённо || remotely; slightly
+splatter|verb || брызгать, забрызгивать || splatter; splash; spatter
+automatic|verb || SKIP
+exhaust|verb || истощать, изнурять || exhaust; wear out; drain
+violet|adjective || фиолетовый || violet; purple
+bubbly|adjective || жизнерадостный, пузырящийся || bubbly; effervescent; lively
+chaotically|adverb || хаотично || chaotically; in a chaotic way
+apprehensive|adjective || встревоженный, опасающийся || apprehensive; anxious; uneasy
+settee|noun || небольшой диван, софа || settee; couch; sofa
+trampoline|noun || батут || trampoline
+stamina|noun || выносливость || stamina; endurance
+ploy|noun || уловка, манёвр || ploy; trick; ruse
+dither|verb || колебаться, мяться || dither; hesitate; waver
+overalls|noun || комбинезон || overalls; coveralls
+unison|noun || унисон, согласие || unison
+snail|noun || улитка || snail
+bliss|noun || блаженство || bliss; ecstasy; joy
+inexhaustible|adjective || неисчерпаемый || inexhaustible; endless; limitless
+acre|noun || акр || acre
+heifer|noun || тёлка (молодая корова) || heifer
+ewe|noun || овца (самка) || ewe
+adversary|noun || противник, соперник || adversary; opponent; enemy
+victorious|adjective || победоносный || victorious; triumphant
+victoriously|adverb || победоносно || victoriously; triumphantly
+profound|adjective || глубокий (о мысли, чувстве) || profound; deep; intense
+profoundly|adverb || глубоко (о чувстве, влиянии) || profoundly; deeply; greatly
+baldly|adverb || прямо, без прикрас || baldly; bluntly; plainly
+bald|verb || лысеть || go bald; bald; lose hair
+bearded|adjective || бородатый || bearded
+professionalism|noun || профессионализм || professionalism
+artistically|adverb || художественно, артистично || artistically
+popularization|noun || популяризация || popularization; popularisation
+pendulum|noun || маятник || pendulum
+predecessor|noun || предшественник || predecessor
+boast|noun || хвастовство || boast; brag
+lapse|noun || промах, провал (памяти) || lapse; slip; failure
+ceaseless|adjective || непрекращающийся || ceaseless; endless; nonstop
+ceaselessly|adverb || безостановочно || ceaselessly; endlessly; nonstop
+climax|noun || кульминация || climax; peak; high point
+climactic|adjective || кульминационный || climactic; decisive
+anticlimactic|adjective || разочаровывающий (после ожиданий) || anticlimactic; disappointing
+scramble|noun || давка, борьба (за что-то) || scramble; rush; struggle
+forfeit|verb || терять (право), лишаться || forfeit; lose; give up
+twitch|verb || подёргиваться || twitch; jerk; quiver
+twitch|noun || подёргивание, тик || twitch; tic; jerk
+intellect|noun || интеллект, ум || intellect; intelligence; mind
+descent|noun || спуск, происхождение || descent; drop; ancestry
+shed|verb || сбрасывать, терять (листья, вес) || shed; drop; lose
+exodus|noun || массовый исход || exodus; mass departure
+immortalize|verb || обессмертить || immortalize; immortalise; make immortal
+genome|noun || геном || genome
+fraction|noun || дробь, доля || fraction; portion; part
+faction|noun || фракция, группировка || faction; group; splinter group
+physique|noun || телосложение || physique; build; body
+utensil|noun || кухонный прибор, посуда || utensil; kitchen tool
+otter|noun || выдра || otter
+clammy|adjective || липкий, влажный (о коже) || clammy; sweaty; damp
+absolute|noun || абсолют || absolute
+dispense|verb || выдавать, отпускать (лекарства) || dispense; distribute; hand out
+dispensary|noun || аптека (при учреждении), диспансер || dispensary; pharmacy
+diverge|verb || расходиться (о путях, мнениях) || diverge; split; differ
+divergence|noun || расхождение || divergence; difference; deviation
+divergent|adjective || расходящийся, отличающийся || divergent; differing; deviating
+burst|noun || вспышка, взрыв (порыв) || burst; outburst; rush
+superficial|adjective || поверхностный || superficial; shallow; surface
+superficially|adverb || поверхностно || superficially
+aesthetic|adjective || эстетический || aesthetic
+aesthetically|adverb || эстетически || aesthetically
+scrutinize|verb || тщательно изучать || scrutinize; scrutinise; examine closely
+scrutiny|noun || пристальное изучение || scrutiny; close examination
+quip|noun || остроумное замечание || quip; witty remark; wisecrack
+quip|verb || остроумно замечать || quip; joke; wisecrack
+woo|verb || ухаживать, добиваться расположения || woo; court; pursue
+criteria|noun || критерии || criteria; standards
+plausible|adjective || правдоподобный || plausible; believable; credible
+plausibility|noun || правдоподобие || plausibility
+plausibly|adverb || правдоподобно || plausibly; credibly
+instinctive|adjective || инстинктивный || instinctive; intuitive
+instinctively|adverb || инстинктивно || instinctively; intuitively
+stylistic|adjective || стилистический || stylistic
+stylistically|adverb || стилистически || stylistically
+inheritance|noun || наследство || inheritance; legacy
+inherent|adjective || присущий, неотъемлемый || inherent; intrinsic; built-in
+inherently|adverb || по своей природе, изначально || inherently; intrinsically
+tune|verb || настраивать (инструмент, радио) || tune; adjust
+spontaneous|adjective || спонтанный || spontaneous; impulsive
+spontaneously|adverb || спонтанно || spontaneously
+honk|verb || сигналить (гудеть) || honk; beep
+honk|noun || гудок, гогот || honk; beep
+goose|noun || гусь || goose
+innovate|verb || внедрять новшества || innovate
+connoisseur|noun || знаток, ценитель || connoisseur; expert; aficionado
+abstraction|noun || абстракция || abstraction
+tantrum|noun || истерика (детская) || tantrum
+institute|verb || учреждать, вводить (правило) || institute; establish; introduce
+discard|verb || выбрасывать, отбрасывать || discard; throw away; get rid of
+fatality|noun || смертельный случай || fatality; death
+angle|verb || направлять под углом || angle; tilt; slant
+stiffen|verb || напрягаться, твердеть || stiffen; tense up; harden
+wooded|adjective || лесистый || wooded; forested
+flatter|verb || льстить || flatter
+flattery|noun || лесть || flattery
+aimless|adjective || бесцельный || aimless; pointless
+aimlessly|adverb || бесцельно || aimlessly
+meaningless|adjective || бессмысленный || meaningless; pointless
+meaninglessly|adverb || бессмысленно || meaninglessly; pointlessly
+candid|adjective || откровенный, искренний || candid; frank; open
+candidly|adverb || откровенно || candidly; frankly; openly
+vitality|noun || жизненная сила, энергия || vitality; energy; vigor
+provoke|verb || провоцировать || provoke; incite; trigger
+provocative|adjective || провокационный, вызывающий || provocative; inflammatory
+provocatively|adverb || вызывающе || provocatively
+clench|verb || сжимать (кулаки, зубы) || clench; clasp; grit
+haggle|verb || торговаться || haggle; bargain
+scorn|noun || презрение (насмешливое) || scorn; contempt; derision
+scornful|adjective || презрительный || scornful; contemptuous; disdainful
+scornfully|adverb || презрительно || scornfully; contemptuously
+animatedly|adverb || оживлённо || animatedly; excitedly; lively
+obscure|verb || скрывать, затемнять || obscure; hide; conceal
+obscure|adjective || малоизвестный, неясный || obscure; unclear; little-known
+obscurely|adverb || неясно, смутно || obscurely; vaguely
+elevate|verb || поднимать, возвышать || elevate; raise; lift
+elevation|noun || возвышение, высота над уровнем моря || elevation; altitude; height
+pose|verb || позировать, представлять (проблему) || pose; model
+tediously|adverb || нудно, утомительно || tediously; boringly
+succession|noun || последовательность, преемственность || succession; sequence
+formality|noun || формальность || formality
+mountaineer|noun || альпинист || mountaineer; climber
+pioneer|verb || быть первопроходцем, прокладывать путь || pioneer; lead the way
+pioneer|noun || пионер, первопроходец || pioneer; trailblazer
+quest|noun || поиски, стремление (к чему-то) || quest; search; pursuit
+transatlantic|adjective || трансатлантический || transatlantic
+rudiments|noun || азы, основы || rudiments; basics; fundamentals
+rudimentary|adjective || элементарный, зачаточный || rudimentary; basic; primitive
+paddle|verb || грести (веслом), барахтаться || paddle
+immense|adjective || огромный, необъятный || immense; huge; enormous; vast
+immensely|adverb || чрезвычайно, безмерно || immensely; hugely; enormously
+advisory|adjective || консультативный || advisory; consultative
+trying|adjective || изматывающий, трудный || trying; difficult; exhausting
+adrenaline|noun || адреналин || adrenaline
+tinker|verb || возиться, мастерить || tinker; fiddle; fix up
+tinker|noun || лудильщик, жестянщик || tinker
+lavatory|noun || туалет (в самолёте, общественный) || lavatory; restroom; toilet
+pinnacle|noun || вершина, пик (карьеры) || pinnacle; peak; summit
+insecure|adjective || неуверенный в себе || insecure; unsure
+insecurely|adverb || неуверенно, ненадёжно || insecurely
+reassure|verb || успокаивать, обнадёживать || reassure; comfort
+reassurance|noun || успокоение, заверение || reassurance
+insensitive|adjective || бесчувственный, бестактный || insensitive; thoughtless; callous
+insensitively|adverb || бестактно, бесчувственно || insensitively; callously
+profess|verb || заявлять, открыто признавать || profess; claim; declare
+drawback|noun || недостаток, минус || drawback; disadvantage; downside
+resort|verb || прибегать (к чему-то) || resort; turn to; fall back on
+oversee|verb || надзирать, контролировать || oversee; supervise; manage
+overseer|noun || надсмотрщик, управляющий || overseer; supervisor; foreman
+estimation|noun || оценка, мнение || estimation; judgment; opinion
+commission|verb || заказывать (произведение), поручать || commission; order; authorize
+liaison|noun || связь, взаимодействие || liaison; contact; connection
+stressfully|adverb || напряжённо, стрессово || stressfully; under stress
+loom|verb || маячить, надвигаться || loom; tower; appear
+structurally|adverb || структурно || structurally
+structural|adjective || структурный, строительный || structural
+chauffer|noun || SKIP
+chauffer|verb || SKIP
+sedentary|adjective || сидячий (о образе жизни) || sedentary; inactive
+rapport|noun || взаимопонимание, контакт || rapport; connection; understanding
+landscape|verb || благоустраивать территорию || landscape
+consultation|noun || консультация || consultation
+consultancy|noun || консалтинговая фирма || consultancy; consulting firm
+bloom|verb || цвести || bloom; blossom; flower
+engineer|verb || конструировать, подстраивать || engineer; design; devise
+retention|noun || удержание, сохранение || retention; keeping
+quarry|noun || карьер (каменоломня) || quarry; pit
+specification|noun || спецификация, технические требования || specification; spec
+contract|verb || заключать договор || contract; sign an agreement
+contractor|noun || подрядчик || contractor
+query|verb || ставить под сомнение, задавать вопрос || query; question; inquire
+possessor|noun || владелец (обладатель) || possessor; owner; holder
+chill|verb || охлаждать, расслабляться || chill; cool; relax
+chill|noun || холодок, озноб || chill
+chilly|adjective || прохладный, зябкий || chilly; cool; nippy
+frost|verb || покрывать инеем || frost; ice over
+frosty|adjective || морозный, холодный (о приёме) || frosty; icy; chilly
+frostily|adverb || холодно, неприветливо || frostily; coldly
+man|verb || обслуживать, быть на посту || man; staff; operate
+unmanned|adjective || беспилотный, безлюдный || unmanned; uncrewed
+impersonal|adjective || безличный, формальный || impersonal; detached
+impersonally|adverb || безлично, отстранённо || impersonally
+impersonate|verb || выдавать себя за, подражать || impersonate; pose as; mimic
+impersonator|noun || имитатор, подражатель || impersonator; mimic
+impersonation|noun || имитация, выдача себя за другого || impersonation; imitation
+buzzer|noun || зуммер, звонок || buzzer
+desert|verb || покидать, дезертировать || desert; abandon; leave
+desertion|noun || дезертирство, оставление || desertion; abandonment
+unoccupied|adjective || незанятый, свободный || unoccupied; vacant; empty
+stuffy|adjective || душный (о помещении), чопорный || stuffy; airless; stiff
+stuffily|adverb || чопорно, душно || stuffily
+stuffiness|noun || духота, чопорность || stuffiness
+gape|verb || глазеть, раскрыв рот || gape; stare; gawk
+repute|verb || считать (по общему мнению) || repute; consider; regard
+toughness|noun || стойкость, жёсткость || toughness; durability; strength
+recall|noun || отзыв (товара), припоминание || recall
+plumbing|noun || сантехника || plumbing
+usher|noun || билетёр, капельдинер || usher
+glum|adjective || угрюмый, мрачный || glum; gloomy; sullen
+glumly|adverb || угрюмо, мрачно || glumly; gloomily
+gamely|adverb || бодро, мужественно || gamely; bravely; pluckily
+dissect|verb || препарировать, разбирать || dissect; analyze
+dissection|noun || препарирование, вскрытие || dissection
+commend|verb || хвалить, рекомендовать || commend; praise; recommend
+commendation|noun || похвала, награда || commendation; praise; award
+thereby|adverb || тем самым || thereby; thus; by that means
+flick|verb || щёлкать, смахивать || flick; flip; flip through
+flicker|noun || мерцание, вспышка || flicker; glimmer
+unenviable|adjective || незавидный || unenviable
+unenviably|adverb || незавидно || unenviably
+voice|verb || высказывать (мнение) || voice; express; air
+tread|noun || протектор, поступь || tread
+allege|verb || утверждать (без доказательств) || allege; claim; assert
+bribe|verb || подкупать || bribe
+bribe|noun || взятка || bribe
+bribery|noun || взяточничество || bribery
+inclusion|noun || включение, инклюзия || inclusion
+inclusive|adjective || включающий в себя, инклюзивный || inclusive
+inclusively|adverb || включительно || inclusively
+unconvincing|adjective || неубедительный || unconvincing
+unconvincingly|adverb || неубедительно || unconvincingly
+recharge|verb || перезаряжать, восстанавливать силы || recharge
+facilitation|noun || содействие, облегчение || facilitation
+condition|verb || приучать, формировать привычку || condition; train; accustom
+conditional|adjective || условный || conditional
+conditionally|adverb || условно || conditionally
+tone|verb || тонизировать, придавать тонус || tone; tone up
+supple|adjective || гибкий, пластичный || supple; flexible; lithe
+manicure|noun || маникюр || manicure
+manicure|verb || делать маникюр || manicure
+pedicure|noun || педикюр || pedicure
+facial|adjective || лицевой || facial
+facial|noun || косметическая чистка лица || facial
+bouquet|noun || букет || bouquet
+refurbish|verb || обновлять, ремонтировать || refurbish; renovate; redecorate
+refurbishment|noun || обновление, ремонт || refurbishment; renovation
+grounds|noun || территория (участок), основания || grounds
+ground|verb || запрещать полёты, наказывать домашним арестом || ground
+lethargy|noun || вялость, апатия || lethargy; sluggishness; apathy
+lethargic|adjective || вялый, апатичный || lethargic; sluggish; listless
+lethargically|adverb || вяло, апатично || lethargically; sluggishly
+stately|adjective || величавый, величественный || stately; majestic; grand
+conserve|verb || сберегать, сохранять (природу) || conserve; preserve; save
+conservatory|noun || зимний сад, консерватория || conservatory
+disquieting|adjective || тревожный || disquieting; disturbing; worrying
+fiercely|adverb || яростно, жёстко || fiercely; ferociously
+grapefruit|noun || грейпфрут || grapefruit
+exotically|adverb || экзотически || exotically
+flask|noun || фляжка, колба || flask
+spacious|adjective || просторный || spacious; roomy; large
+gourmet|adjective || гастрономический, изысканный || gourmet
+gourmet|noun || гурман || gourmet; foodie
+conjure|verb || вызывать (образы), колдовать || conjure; summon; evoke
+creamy|adjective || сливочный, кремовый || creamy
+sauna|noun || сауна || sauna
+remedial|adjective || коррекционный, лечебный || remedial; corrective
+posture|noun || осанка, поза || posture
+sedate|verb || давать успокоительное || sedate; tranquilize
+sedately|adverb || степенно, невозмутимо || sedately; calmly
+sedate|adjective || степенный, невозмутимый || sedate; calm; staid
+clutch|verb || хвататься, сжимать || clutch; grab; grip
+clutch|noun || сцепление (в машине) || clutch
+stagger|verb || шататься, пошатываться || stagger; stumble; totter
+staggering|adjective || ошеломляющий || staggering; astonishing; astounding
+dutiful|adjective || послушный, исполнительный || dutiful; obedient
+dutifully|adverb || послушно, исправно || dutifully; obediently
+calorie|noun || калория || calorie
+firm|verb || укреплять, уплотнять || firm; firm up; tighten
+fabulously|adverb || сказочно, потрясающе || fabulously; wonderfully; amazingly
+premises|noun || помещение (здание и территория) || premises; property
+eclectic|adjective || эклектичный, разнородный || eclectic; diverse; varied
+eclectic|noun || эклектик || eclectic
+eclectically|adverb || эклектично || eclectically
+revere|verb || благоговейно почитать || revere; venerate; worship
+harbor|verb || затаивать (чувство), укрывать || harbor; harbour; shelter
+recognizable|adjective || узнаваемый || recognizable; recognisable; identifiable
+recognizably|adverb || узнаваемо || recognizably
+batter|verb || колотить, избивать || batter; beat; pound
+batter|noun || кляр, жидкое тесто || batter
+unreliably|adverb || ненадёжно || unreliably
+waterfront|noun || набережная, прибрежная полоса || waterfront
+amply|adverb || в избытке, с лихвой || amply; abundantly; fully
+amplification|noun || усиление, расширение || amplification
+battered|adjective || потрёпанный, избитый || battered; worn; beaten-up
+comply|verb || подчиняться, соблюдать (правила) || comply; obey; conform
+compliance|noun || соблюдение, подчинение || compliance
+compliant|adjective || послушный, соответствующий (требованиям) || compliant; obedient; submissive
+compliantly|adverb || послушно, покорно || compliantly; obediently
+blankness|noun || пустота, отсутствие выражения || blankness; emptiness
+exuberant|adjective || искрящийся энергией, бурный || exuberant; lively; enthusiastic
+exuberance|noun || бьющая через край энергия || exuberance; high spirits
+exuberantly|adverb || бурно, с энтузиазмом || exuberantly; enthusiastically
+linear|adjective || линейный || linear
+linearly|adverb || линейно || linearly
+flourish|noun || росчерк, эффектный жест || flourish
+flourish|verb || процветать || flourish; thrive; prosper
+anchor|verb || бросать якорь, закреплять || anchor; moor; secure
+anchored|adjective || закреплённый, якорный || anchored; moored
+domination|noun || господство, доминирование || domination; dominance; control
+dominant|adjective || доминирующий, господствующий || dominant; prevailing; main
+dominantly|adverb || преимущественно, доминирующе || dominantly; predominantly
+interject|verb || вставлять (реплику), перебивать || interject; interrupt; chip in
+interjection|noun || междометие, реплика || interjection
+gush|verb || хлынуть, восторженно изливаться || gush; spurt; pour out
+gushing|adjective || хлещущий, чрезмерно восторженный || gushing; effusive
+gush|noun || поток, хлынувшая струя || gush; stream; spurt
+gushingly|adverb || с излишним восторгом, излишне эмоционально || gushingly; effusively
+voracious|adjective || ненасытный, жадный || voracious; ravenous; insatiable
+voraciously|adverb || ненасытно, жадно || voraciously; ravenously; greedily
+sketchbook|noun || альбом для набросков || sketchbook
+sketch|noun || набросок, скетч || sketch; drawing
+prop|verb || подпирать, прислонять || prop; support; lean
+prop|noun || подпорка, реквизит || prop; support
+imp|noun || бесёнок, проказник || imp; rascal
+impish|adjective || озорной, шаловливый || impish; mischievous; playful
+impishly|adverb || озорно, шаловливо || impishly; mischievously; playfully
+wicked|adjective || злой, коварный (и разг. классный) || wicked; evil; sinful
+wickedly|adverb || злобно, коварно || wickedly; evilly; mischievously
+macabre|adjective || жуткий, мрачный (о смерти) || macabre; grisly; gruesome
+gusto|noun || смак, воодушевление || gusto; enthusiasm; relish
+tantamount|adjective || равносильный || tantamount; equivalent
+antics|noun || выходки, проделки || antics; capers; pranks
+lapse|verb || ослабевать, терять силу (об истечении срока) || lapse; expire; slip
+relapse|verb || снова впадать (в болезнь, привычку) || relapse; backslide; slip back
+relapse|noun || рецидив || relapse; setback
+impede|verb || препятствовать, затруднять || impede; hinder; obstruct
+impediment|noun || препятствие, помеха || impediment; obstacle; hindrance
+taut|adjective || туго натянутый || taut; tight; tense
+tautly|adverb || туго, напряжённо || tautly; tightly
+jersey|noun || джерси (трикотажная кофта, форма) || jersey
+jersey|adjective || трикотажный || jersey
+startling|adjective || поразительный, неожиданный || startling; surprising; shocking
+startlingly|adverb || поразительно, неожиданно || startlingly; surprisingly
+slack|verb || лениться, халтурить || slack; slack off; loosen
+slack|noun || слабина (провисшая часть) || slack
+slack|adjective || ослабленный, вялый || slack; loose; sluggish
+slackly|adverb || вяло, свободно || slackly; loosely
+unwavering|adjective || непоколебимый || unwavering; steadfast; steady
+unwaveringly|adverb || непоколебимо || unwaveringly; steadfastly
+removed|adjective || удалённый, далёкий || removed; remote; distant
+buffoon|noun || шут, клоун || buffoon; clown; fool
+beguiling|adjective || очаровывающий, обворожительный || beguiling; charming; enchanting
+beguilingly|adverb || очаровательно, завораживающе || beguilingly; charmingly
+blithely|adverb || беспечно, весело || blithely; cheerfully; carelessly
+stray|verb || отбиваться, сбиваться с пути || stray; wander; drift
+stray|adjective || бродячий, случайный || stray; lost
+stray|noun || бродяга (о животном) || stray
+mythological|adjective || мифологический || mythological
+mythology|noun || мифология || mythology
+venerate|verb || глубоко почитать || venerate; revere; worship
+veneration|noun || глубокое почитание || veneration; reverence
+ethical|adjective || этический, этичный || ethical; moral
+ethically|adverb || этично || ethically; morally
+heroine|noun || героиня || heroine
+refreshing|adjective || освежающий || refreshing; invigorating
+refresh|verb || освежать, обновлять (страницу) || refresh; revive; reload
+zany|adjective || чудаковатый, придурковатый || zany; wacky; goofy
+devotee|noun || поклонник, приверженец || devotee; fan; enthusiast
+salve|noun || мазь, бальзам (успокоение) || salve; ointment; balm
+salvation|noun || спасение (избавление) || salvation; deliverance; rescue
+salvage|verb || спасать (имущество), восстанавливать || salvage; rescue; save
+staccato|adjective || отрывистый || staccato; abrupt
+staccato|adverb || отрывисто || staccato
+verve|noun || задор, живость || verve; vigor; enthusiasm
+motley|adjective || пёстрый, разношёрстный || motley; varied; assorted
+preach|verb || проповедовать, читать мораль || preach; sermonize
+preacher|noun || проповедник || preacher
+justly|adverb || справедливо, заслуженно || justly; fairly; deservedly
+wry|adjective || ироничный, кривой (об улыбке) || wry; ironic; sardonic
+wryly|adverb || иронично, с кривой усмешкой || wryly; ironically
+poetess|noun || поэтесса || poetess; female poet
+confide|verb || доверять (тайну), делиться секретом || confide; confess; entrust
+sentient|adjective || чувствующий, разумный || sentient; conscious
+sentiment|noun || чувство, настроение (общественное) || sentiment; feeling
+sentimental|adjective || сентиментальный || sentimental
+sentimentally|adverb || сентиментально || sentimentally
+tangle|verb || запутывать, запутываться || tangle; snarl; entangle
+tangle|noun || путаница, клубок || tangle; knot
+tangled|adjective || спутанный, запутанный || tangled; knotted; messy
+untangle|verb || распутывать || untangle; unravel
+untangled|adjective || распутанный || untangled
+perceptive|adjective || наблюдательный, проницательный || perceptive; observant; astute
+perceptively|adverb || проницательно || perceptively; astutely
+outset|noun || самое начало || outset; start; beginning
+tycoon|noun || магнат || tycoon; magnate; mogul
+launch|noun || запуск (ракеты, продукта) || launch; release
+engross|verb || поглощать (внимание) || engross; absorb; captivate
+engrossing|adjective || захватывающий, увлекательный || engrossing; absorbing; captivating
+plague|verb || донимать, мучить || plague; torment; bother
+orphan|verb || оставлять сиротой || orphan
+detritus|noun || мусор, обломки || detritus; debris; rubbish
+detriment|noun || ущерб, вред || detriment; harm; damage
+detrimental|adjective || вредный, пагубный || detrimental; harmful; damaging
+detrimentally|adverb || пагубно, во вред || detrimentally; harmfully
+domestically|adverb || внутри страны, по-домашнему || domestically
+domesticate|verb || приручать, одомашнивать || domesticate; tame
+domestication|noun || одомашнивание || domestication
+eccentric|noun || чудак || eccentric; oddball
+eccentrically|adverb || эксцентрично, странно || eccentrically; oddly
+render|verb || делать (каким-то), оказывать (услугу) || render; make; provide
+rendering|noun || исполнение, трактовка, перевод || rendering; interpretation; version
+pathos|noun || пафос (вызывающий жалость) || pathos
+tailor|noun || портной || tailor
+tailor|verb || шить по мерке, подстраивать || tailor; adapt; customize
+personalize|verb || персонализировать || personalize; personalise; customize
+personalization|noun || персонализация || personalization; personalisation
+limitless|adjective || безграничный || limitless; boundless; endless
+apprentice|noun || ученик, подмастерье || apprentice; trainee
+apprentice|verb || отдавать в ученики || apprentice
+apprenticeship|noun || ученичество, стажировка || apprenticeship
+precision|noun || точность || precision; accuracy
+swap|noun || обмен || swap; exchange; trade
+perfect|verb || совершенствовать || perfect; refine; polish
+silhouette|noun || силуэт || silhouette; outline
+nondescript|adjective || невзрачный, неприметный || nondescript; unremarkable; bland
+signal|verb || сигнализировать, подавать знак || signal; indicate; gesture
+negligible|adjective || незначительный, ничтожный || negligible; insignificant; trivial
+negligent|adjective || небрежный, халатный || negligent; careless; neglectful
+negligently|adverb || небрежно, халатно || negligently; carelessly
+principally|adverb || главным образом || principally; mainly; chiefly
+altruism|noun || альтруизм || altruism; selflessness
+altruistic|adjective || альтруистичный || altruistic; selfless
+scenario|noun || сценарий (вариант развития) || scenario; situation
+voluntary|adjective || добровольный || voluntary; optional
+voluntarily|adverb || добровольно || voluntarily; willingly
+reap|verb || пожинать (плоды), собирать урожай || reap; harvest; gather
+paternal|adjective || отцовский || paternal; fatherly
+maternal|adjective || материнский || maternal; motherly
+maternalistic|adjective || SKIP
+paternalistic|adjective || патерналистский, опекающий || paternalistic
+provisions|noun || провизия, запасы || provisions; supplies; food
+injustice|noun || несправедливость || injustice; unfairness
+impoverished|adjective || обедневший, нищий || impoverished; poor; destitute
+unsustainable|adjective || неустойчивый, нерациональный || unsustainable
+unsustainably|adverb || неустойчиво || unsustainably
+sustainable|adjective || устойчивый, экологичный || sustainable
+sustainably|adverb || устойчиво || sustainably
+bypass|verb || обходить, миновать || bypass; go around; circumvent
+imperative|adjective || необходимый, обязательный || imperative; essential; crucial
+cynic|noun || циник || cynic
+cynical|adjective || циничный || cynical
+cynically|adverb || цинично || cynically
+cynicism|noun || цинизм || cynicism
+sarcasm|noun || сарказм || sarcasm
+sarcastic|adjective || саркастичный || sarcastic
+sarcastically|adverb || саркастически || sarcastically
+misplace|verb || положить не на место, потерять || misplace; mislay; lose
+symptomatic|adjective || симптоматичный, характерный || symptomatic; indicative
+degrade|verb || унижать, ухудшать || degrade; debase; demean
+degrading|adjective || унизительный || degrading; humiliating
+degradation|noun || деградация, унижение || degradation
+discourse|noun || дискурс, рассуждение || discourse; discussion
+hedgehog|noun || ёж || hedgehog
+nocturnal|adjective || ночной (о животных) || nocturnal; night
+hibernate|verb || впадать в спячку || hibernate
+hibernation|noun || спячка || hibernation
+convict|verb || признавать виновным || convict; find guilty
+convict|noun || осуждённый, заключённый || convict; prisoner
+conviction|noun || убеждённость, судимость || conviction; belief
+latent|adjective || скрытый, латентный || latent; dormant; hidden
+snooze|verb || вздремнуть, подремать || snooze; doze; nap
+classy|adjective || классный, стильный || classy; stylish; elegant
+wrench|verb || выдёргивать, резко дёргать || wrench; yank; twist
+reminisce|verb || вспоминать (прошлое) || reminisce; recall; remember
+reminiscent|adjective || напоминающий || reminiscent; evocative
+intuit|verb || чувствовать интуитивно || intuit; sense
+intuition|noun || интуиция || intuition; instinct
+intuitive|adjective || интуитивный, понятный без объяснений || intuitive
+intuitively|adverb || интуитивно || intuitively
+marginal|adjective || незначительный, маргинальный || marginal; slight; minor
+marginally|adverb || незначительно, слегка || marginally; slightly
+crude|adjective || грубый, примитивный || crude; rough; coarse
+crudely|adverb || грубо, примитивно || crudely; roughly
+strap|noun || ремешок, лямка || strap
+strap|verb || пристёгивать ремнём || strap; fasten; buckle
+strapping|adjective || рослый, крепкий || strapping; sturdy; burly
+scoff|verb || насмехаться, глумиться || scoff; mock; sneer
+fiddly|adjective || мелкий, кропотливый, неудобный || fiddly; finicky; awkward
+fiddler|noun || скрипач (народный) || fiddler
+fiddle|verb || теребить, возиться || fiddle; fidget; tinker
+fiddle|noun || скрипка (разг.) || fiddle; violin
+unmusical|adjective || немузыкальный || unmusical; tuneless
+unmusically|adverb || немузыкально || unmusically
+repertory|noun || репертуар (труппы) || repertory; repertoire
+concerto|noun || концерт (музыкальное произведение) || concerto
+premier|adjective || ведущий, первоклассный || premier; leading; top
+premier|noun || премьер-министр || premier; prime minister
+fanatic|noun || фанатик || fanatic; zealot
+fanatic|adjective || фанатичный || fanatic; fanatical; zealous
+fanatically|adverb || фанатично || fanatically
+acoustically|adverb || акустически || acoustically
+acoustic|adjective || акустический || acoustic
+acoustics|noun || акустика || acoustics
+compromised|adjective || скомпрометированный, ослабленный || compromised; weakened
+daunt|verb || запугивать, обескураживать || daunt; intimidate; discourage
+daunting|adjective || пугающий, устрашающий || daunting; intimidating; formidable
+realist|noun || реалист || realist
+realism|noun || реализм || realism
+recess|noun || перерыв, ниша || recess; break; alcove
+recessive|adjective || рецессивный || recessive
+prolific|adjective || плодовитый, продуктивный || prolific; productive
+prolifically|adverb || плодовито, продуктивно || prolifically
+proliferate|verb || быстро распространяться, размножаться || proliferate; multiply; spread
+fragmentation|noun || фрагментация, дробление || fragmentation
+campaign|verb || вести кампанию || campaign; lobby
+astray|adverb || с пути, в заблуждении || astray
+duration|noun || продолжительность || duration; length
+durable|adjective || прочный, долговечный || durable; long-lasting; sturdy
+durable|noun || товар длительного пользования || durable; durable goods
+likelihood|noun || вероятность || likelihood; probability; chance
+naive|adjective || наивный || naive; naïve; innocent
+naively|adverb || наивно || naively
+naivety|noun || наивность || naivety; naiveté
+impervious|adjective || невосприимчивый, непроницаемый || impervious; immune; impenetrable
+ludicrous|adjective || нелепый, смехотворный || ludicrous; ridiculous; absurd
+ludicrously|adverb || нелепо, смехотворно || ludicrously; ridiculously; absurdly
+cost-effective|adjective || экономически выгодный || cost-effective; economical
+gruesome|adjective || жуткий, ужасающий || gruesome; grisly; ghastly
+gruesomely|adverb || жутко, ужасающе || gruesomely; grisly
+envisage|verb || предусматривать, представлять себе || envisage; envision; imagine
+screenwriter|noun || сценарист || screenwriter; scriptwriter
+mingle|verb || смешиваться, общаться с гостями || mingle; mix; socialize
+churn|verb || перемешивать, взбивать || churn; stir; agitate
+buffer|verb || смягчать (удар), буферизовать || buffer; cushion; protect
+buffer|noun || буфер || buffer; cushion
+irate|adjective || разъярённый || irate; furious; angry
+irately|adverb || в ярости, гневно || irately; angrily; furiously
+docile|adjective || послушный, покладистый || docile; obedient; submissive
+docilely|adverb || покорно, смирно || docilely; obediently
+fiend|noun || изверг, злодей, фанат (чего-то) || fiend; demon; devil
+fiendish|adjective || дьявольский, зверский || fiendish; devilish; diabolical
+fiendishly|adverb || дьявольски, зверски || fiendishly; devilishly
+transfix|verb || приковывать (взгляд), завораживать || transfix; rivet; mesmerize
+gypsy|noun || SKIP
+temperament|noun || темперамент, характер || temperament; disposition; nature
+temperamental|adjective || капризный, вспыльчивый || temperamental; moody; volatile
+temperamentally|adverb || по темпераменту || temperamentally
+screenplay|noun || сценарий (фильма) || screenplay; script
+disillusionment|noun || разочарование || disillusionment; disenchantment
+demise|noun || кончина, крах || demise; death; downfall
+raunchy|adjective || непристойный, пошлый || raunchy; bawdy; coarse
+raunchily|adverb || непристойно, пошло || raunchily
+overdraft|verb || уходить в овердрафт || overdraw
+overdraft|noun || овердрафт || overdraft
+synopsis|noun || краткое содержание, синопсис || synopsis; summary; outline
+renown|noun || известность, слава || renown; fame; prestige
+contest|verb || оспаривать || contest; dispute; challenge
+contested|adjective || оспариваемый, спорный || contested; disputed
+verandah|noun || веранда || veranda; verandah; porch
+occupational|adjective || профессиональный (связанный с работой) || occupational; job-related
+verdict|noun || вердикт, приговор || verdict; judgment; decision
+ventilate|verb || проветривать || ventilate; air out
+ventilation|noun || вентиляция || ventilation
+occupant|noun || жилец, пассажир, занимающий место || occupant; resident; tenant
+radiator|noun || радиатор || radiator
+homely|adjective || уютный, домашний || homely; cozy; homey
+bureaucratic|adjective || бюрократический || bureaucratic
+bureaucratically|adverb || бюрократически || bureaucratically
+adjustable|adjective || регулируемый || adjustable
+fatigue|noun || усталость, утомление || fatigue; exhaustion; tiredness
+muscular|adjective || мускулистый || muscular; brawny
+versatile|adjective || многофункциональный, разносторонний || versatile; adaptable; flexible
+versatility|noun || универсальность, многогранность || versatility; flexibility
+stimuli|noun || стимулы, раздражители || stimuli
+uninspiring|adjective || невдохновляющий, скучный || uninspiring; dull; unexciting
+mutually|adverb || взаимно || mutually; reciprocally
+somber|adjective || мрачный, угрюмый || somber; sombre; gloomy; grave
+somberly|adverb || мрачно, угрюмо || somberly; sombrely; gloomily
+clutter|noun || беспорядок, хлам || clutter; mess; junk
+clutter|verb || загромождать || clutter; litter
+lodge|verb || поселиться, застрять || lodge; stay; get stuck
+dislodge|verb || выбивать, сдвигать с места || dislodge; remove; knock loose
+carpenter|noun || плотник || carpenter
+carpentry|noun || плотницкое дело, столярка || carpentry; woodwork
+transit|noun || транзит, перевозка || transit; transport
+plummet|verb || резко падать, обрушиваться || plummet; plunge; drop
+circulate|verb || циркулировать, распространять || circulate; spread
+circulation|noun || кровообращение, тираж, обращение || circulation
+demography|noun || демография || demography
+demographic|adjective || демографический || demographic
+demographic|noun || демографическая группа || demographic
+demographically|adverb || демографически || demographically
+phenomenal|adjective || феноменальный, потрясающий || phenomenal; extraordinary; remarkable
+phenomenally|adverb || феноменально, чрезвычайно || phenomenally; extraordinarily
+prophet|noun || пророк || prophet
+prophetic|adjective || пророческий || prophetic
+paywall|noun || платный доступ (к контенту) || paywall
+firewall|noun || файрвол, брандмауэр || firewall
+invoice|noun || счёт-фактура || invoice; bill
+demolition|noun || снос, разрушение || demolition; destruction
+demo|noun || демонстрация, демоверсия || demo; demonstration
+gig|noun || выступление, концерт, халтурка || gig; concert; performance
+socialization|noun || социализация || socialization; socialisation
+antiquity|noun || античность, древность || antiquity; ancient times
+antiquated|adjective || устаревший, допотопный || antiquated; outdated; obsolete
+restoration|noun || реставрация, восстановление || restoration; renovation; recovery
+restorative|adjective || восстанавливающий || restorative; healing
+rotate|verb || вращать, чередовать || rotate; turn; alternate
+till|noun || касса (денежный ящик) || till; cash register
+coupled|adjective || соединённый, в сочетании || coupled; combined
+itinerary|noun || маршрут, план поездки || itinerary; route; travel plan
+charter|verb || арендовать (самолёт, судно) || charter; hire; rent
+charter|noun || хартия, устав || charter
+terrain|noun || местность, рельеф || terrain; land; ground
+resilient|adjective || жизнестойкий, упругий || resilient; tough; hardy
+resilience|noun || жизнестойкость, упругость || resilience; toughness
+enterprising|adjective || предприимчивый || enterprising; resourceful; ambitious
+integral|adjective || неотъемлемый, составной || integral; essential; fundamental
+canoe|noun || каноэ || canoe
+magnetic|adjective || магнитный, притягательный || magnetic; attractive
+magnetism|noun || магнетизм, притягательность || magnetism; charisma
+magnetically|adverb || магнетически || magnetically
+credible|adjective || заслуживающий доверия, правдоподобный || credible; believable; trustworthy
+credibly|adverb || достоверно, убедительно || credibly; believably
+credibility|noun || достоверность, авторитет || credibility; reliability
+credential|noun || квалификация, документ о полномочиях || credential; qualification
+acutely|adverb || остро, глубоко (о ощущении) || acutely; sharply; intensely
+prohibitive|adjective || непомерный (о цене), запретительный || prohibitive; exorbitant
+prohibitively|adverb || непомерно, запредельно || prohibitively; exorbitantly
+fissure|noun || трещина, расселина || fissure; crack; cleft
+pendulous|adjective || свисающий, обвисший || pendulous; hanging; drooping
+suspension|noun || приостановка, подвеска || suspension
+drill|verb || сверлить, муштровать || drill; bore; train
+anthropology|noun || антропология || anthropology
+anthropologist|noun || антрополог || anthropologist
+squander|verb || расточать, проматывать || squander; waste; fritter away
+munch|verb || хрустеть (жуя), смачно жевать || munch; chew; crunch
+adjoin|verb || примыкать, граничить || adjoin; border; neighbor
+adjoining|adjective || смежный, соседний || adjoining; neighboring; adjacent
+wizened|adjective || сморщенный, высохший || wizened; shriveled; withered
+graft|verb || прививать (растения), пересаживать (ткань) || graft; transplant
+orchard|noun || фруктовый сад || orchard
+seedling|noun || саженец, рассада || seedling; sapling
+tract|noun || участок (земли), тракт || tract; area; region
+folktale|noun || народная сказка || folktale; folk tale
+sprout|verb || прорастать, давать ростки || sprout; shoot up; germinate
+sprout|noun || росток, побег || sprout; shoot
+hypocrisy|noun || лицемерие || hypocrisy
+hypocrite|noun || лицемер || hypocrite
+hypocritical|adjective || лицемерный || hypocritical
+hypocritically|adverb || лицемерно || hypocritically
+midwife|noun || акушерка || midwife
+harvest|verb || собирать урожай || harvest; reap; gather
+commercially|adverb || в коммерческом отношении || commercially
+uniformity|noun || единообразие, однородность || uniformity; sameness
+numb|adjective || онемевший || numb
+numb|verb || делать нечувствительным, обезболивать || numb; deaden
+tastebud|noun || вкусовой рецептор || taste bud; tastebud
+amateur|noun || любитель || amateur; non-professional
+amateur|adjective || любительский || amateur
+retrace|verb || пройти заново (по следам) || retrace; backtrack
+chart|verb || наносить на карту, отслеживать || chart; map; plot
+insubordinate|adjective || непокорный, неподчиняющийся || insubordinate; disobedient; rebellious
+insubordination|noun || неподчинение || insubordination; disobedience
+insubordinately|adverb || непокорно || insubordinately
+subordinate|noun || подчинённый || subordinate
+primitively|adverb || примитивно || primitively; crudely
+embark|verb || отправляться, приступать (к делу) || embark; set out; begin
+expedite|verb || ускорять (процесс) || expedite; speed up; hasten
+contextual|adjective || контекстуальный || contextual
+contextually|adverb || контекстуально || contextually
+maneuver|verb || маневрировать || maneuver; manoeuvre; maneuvre
+maneuver|noun || манёвр || maneuver; manoeuvre; move
+riveting|adjective || захватывающий, приковывающий внимание || riveting; gripping; fascinating
+plunge|verb || погружаться, нырять || plunge; dive; plummet
+plunge|noun || погружение, резкое падение || plunge; dive; drop
+debut|noun || дебют || debut; first appearance
+debut|verb || дебютировать || debut; make a debut
+turmoil|noun || смятение, неразбериха || turmoil; chaos; upheaval
+scathing|adjective || язвительный, уничтожающий || scathing; harsh; withering
+unscathing|adjective || SKIP
+convoluted|adjective || запутанный, замысловатый || convoluted; complicated; twisted
+undaunted|adjective || неустрашимый, не оробевший || undaunted; fearless; unafraid
+gutsy|adjective || отважный, смелый || gutsy; brave; plucky
+deprivation|noun || лишение, нужда || deprivation; hardship; privation
+farce|noun || фарс || farce
+portray|verb || изображать, играть (роль) || portray; depict; play
+portrayal|noun || изображение, портрет (в искусстве) || portrayal; depiction
+elusive|adjective || неуловимый, трудноопределимый || elusive; evasive; hard to catch
+elude|verb || ускользать (от) || elude; evade; escape
+incisor|noun || резец (зуб) || incisor
+incision|noun || надрез, разрез || incision; cut
+chisel|verb || высекать, долбить (стамеской) || chisel; carve; cut
+chiselled|adjective || точёный, чётко очерченный || chiseled; chiselled; sculpted
+gnaw|verb || грызть, глодать || gnaw; chew; nibble
+elongate|verb || удлинять, вытягивать || elongate; lengthen; stretch
+telltale|adjective || выдающий, красноречивый || telltale; revealing
+cavity|noun || полость, кариес || cavity; hollow; hole
+rustle|verb || шуршать, шелестеть || rustle
+rustle|noun || шорох, шелест || rustle
+glean|verb || собирать по крупицам (сведения) || glean; gather; pick up
+niche|noun || ниша || niche; alcove
+somersault|noun || кувырок, сальто || somersault; flip
+somersault|verb || кувыркаться, делать сальто || somersault; flip; tumble
+exhilarate|verb || будоражить, окрылять || exhilarate; thrill; invigorate
+exhilarating|adjective || бодрящий, волнующий || exhilarating; thrilling; invigorating
+exhilaration|noun || душевный подъём, восторг || exhilaration; thrill
+physicality|noun || физическая сила, телесность || physicality
+hack|verb || взламывать, рубить || hack; chop; cut
+hack|noun || халтурщик, наёмный писака || hack
+lust|noun || похоть, жажда (власти, наживы) || lust; desire; craving
+unsettling|adjective || тревожащий, беспокоящий || unsettling; disturbing; disquieting
+unsettle|verb || выводить из равновесия || unsettle; disturb; upset
+suburban|adjective || пригородный || suburban
+suburbia|noun || пригороды (образ жизни) || suburbia; the suburbs
+dramatist|noun || драматург || dramatist; playwright
+characterization|noun || создание образа, характеристика || characterization; characterisation; portrayal
+quirky|adjective || чудаковатый, с причудами || quirky; offbeat; eccentric
+quirky|noun || SKIP
+sprawl|noun || хаотичная застройка, раскидистое пространство || sprawl
+sprawl|verb || раскинуться, развалиться || sprawl; spread out; lounge
+ingenuity|noun || изобретательность || ingenuity; resourcefulness; inventiveness
+panorama|noun || панорама || panorama; view
+panoramic|adjective || панорамный || panoramic; wide
+benign|adjective || доброкачественный, безобидный || benign; harmless; kind
+benignly|adverb || добродушно, благосклонно || benignly; kindly
+explosively|adverb || взрывоопасно, стремительно || explosively
+bequeath|verb || завещать || bequeath; leave; will
+legacy|noun || наследие, наследство || legacy; heritage
+synthetic|adjective || синтетический || synthetic; artificial; man-made
+synthetically|adverb || синтетически, искусственно || synthetically; artificially
+lackluster|adjective || тусклый, невыразительный || lackluster; lacklustre; dull
+elastic|noun || резинка, эластичная лента || elastic; rubber band
+elastic|adjective || эластичный, упругий || elastic; stretchy; flexible
+appall|verb || ужасать, возмущать || appall; horrify; shock
+appalling|adjective || ужасающий, отвратительный || appalling; dreadful; awful
+appallingly|adverb || ужасающе, отвратительно || appallingly; dreadfully; awfully
+pounce|verb || набрасываться, внезапно прыгнуть || pounce; swoop; leap
+abound|verb || изобиловать || abound; be plentiful; teem
+sap|noun || сок (растения) || sap
+monotonous|adjective || монотонный || monotonous; repetitive; dull
+monotonously|adverb || монотонно || monotonously
+monotony|noun || монотонность, однообразие || monotony; repetitiveness
+turn to|verb || обращаться (за помощью) || turn to; resort to; go to
+ingenious|adjective || изобретательный, гениальный (о решении) || ingenious; clever; inventive
+plaque|noun || зубной налёт, мемориальная доска || plaque
+neutralize|verb || нейтрализовать || neutralize; neutralise; counteract
+neutralization|noun || нейтрализация || neutralization; neutralisation
+salivate|verb || выделять слюну, истекать слюной || salivate; drool
+cessation|noun || прекращение || cessation; end; halt
+remorse|noun || раскаяние, угрызения совести || remorse; regret; guilt
+remorseless|adjective || беспощадный, безжалостный || remorseless; merciless; relentless
+remorsefully|adverb || с раскаянием || remorsefully; regretfully
+remorselessly|adverb || беспощадно, неумолимо || remorselessly; relentlessly; mercilessly
+inexcusable|adjective || непростительный || inexcusable; unforgivable; unjustifiable
+inexcusably|adverb || непростительно || inexcusably; unforgivably
+unassisted|adjective || без посторонней помощи || unassisted; unaided; alone
+heighten|verb || усиливать, обострять || heighten; intensify; increase
+fixture|noun || постоянный элемент, встроенное оборудование || fixture
+bulk|noun || основная масса, большой объём || bulk; majority; mass
+bulky|adjective || громоздкий, объёмный || bulky; unwieldy; cumbersome
+bulk up|verb || наращивать мышечную массу || bulk up; gain muscle
+digitalize|verb || оцифровывать || digitize; digitalize; digitise
+digitalization|noun || оцифровка || digitization; digitalization; digitisation
+mark-up|noun || наценка || markup; mark-up
+complementary|adjective || дополняющий, взаимодополняющий || complementary
+complimentary|adjective || бесплатный (о услуге), лестный || complimentary; free
+staple|noun || основной продукт, скрепка || staple
+wares|noun || товары, изделия (для продажи) || wares; goods; merchandise
+testament|noun || свидетельство, завещание || testament; proof; will
+succulent|noun || суккулент || succulent
+succulent|adjective || сочный (о еде) || succulent; juicy
+succulently|adverb || сочно || succulently
+tranquil|adjective || безмятежный, тихий || tranquil; peaceful; serene
+tranquility|noun || покой, безмятежность || tranquility; tranquillity; peace
+spartan|adjective || спартанский, аскетичный || spartan; austere; frugal
+peninsula|noun || полуостров || peninsula
+billiards|noun || бильярд || billiards; pool
+exude|verb || излучать, источать || exude; ooze; radiate
+headmistress|noun || директриса (школы) || headmistress; principal
+mien|noun || вид, осанка (внешний облик) || mien; bearing; demeanor
+timidity|noun || робость, боязливость || timidity; shyness
+unravel|verb || распутывать, распускаться || unravel; untangle; come apart
+concurrence|noun || совпадение, согласие || concurrence; agreement
+unpromising|adjective || малообещающий || unpromising; not promising
+teem|verb || кишеть || teem; swarm; abound
+marvel|noun || чудо, диво || marvel; wonder
+corpse|noun || труп || corpse; dead body
+constrained|adjective || скованный, ограниченный || constrained; restricted; limited
+quirk|verb || SKIP
+indignant|adjective || возмущённый || indignant; outraged; resentful
+indignantly|adverb || возмущённо || indignantly
+eccentricity|noun || эксцентричность, чудачество || eccentricity; oddity
+locomotive|noun || локомотив, паровоз || locomotive; engine
+locomotion|noun || передвижение (способность) || locomotion; movement
+individualism|noun || индивидуализм || individualism
+enthuse|verb || восторженно отзываться || enthuse; rave; gush
+belligerent|adjective || воинственный, агрессивный || belligerent; hostile; aggressive
+belligerence|noun || воинственность, агрессивность || belligerence; aggression
+stoicism|noun || стоицизм || stoicism
+deliberate|verb || размышлять, обсуждать || deliberate; ponder; consider
+recluse|noun || затворник, отшельник || recluse; hermit
+reclusive|adjective || замкнутый, живущий уединённо || reclusive; solitary; withdrawn
+metalled|adjective || с твёрдым покрытием (о дороге) || paved; metalled; surfaced
+brief|noun || краткое изложение, задание (поручение) || brief; summary; instructions
+oblique|adjective || косвенный, наклонный || oblique; slanting; indirect
+facsimile|noun || факсимиле, точная копия || facsimile; replica; copy
+shamble|verb || шаркать, плестись || shamble; shuffle; trudge
+whir|verb || жужжать, гудеть (о механизме) || whir; whirr; hum
+blight|noun || бедствие, болезнь растений || blight; plague; curse
+blight|verb || портить, губить || blight; ruin; spoil
+puritanical|adjective || пуританский, строгий в нравах || puritanical; strict; prudish
+brood|verb || хандрить, предаваться мрачным мыслям || brood; mope; dwell
+brood|noun || выводок || brood; litter
+disdainful|adjective || презрительный, высокомерный || disdainful; scornful; contemptuous
+zoologist|noun || зоолог || zoologist
+zoology|noun || зоология || zoology
+encumbrance|noun || обуза, бремя || encumbrance; burden; hindrance
+encumber|verb || обременять, затруднять || encumber; burden; hinder
+hypothesis|noun || гипотеза || hypothesis; theory
+hypothesize|verb || выдвигать гипотезу || hypothesize; hypothesise; theorize
+hypothetical|adjective || гипотетический || hypothetical; theoretical
+parasitic|adjective || паразитический || parasitic
+plumage|noun || оперение || plumage; feathers
+utilitarian|adjective || утилитарный, практичный || utilitarian; practical; functional
+predilection|noun || пристрастие, склонность || predilection; fondness; preference
+commensurate|adjective || соразмерный || commensurate; proportionate
+commensurately|adverb || соразмерно || commensurately; proportionately
+vindicate|verb || оправдывать, подтверждать правоту || vindicate; clear; justify
+vindication|noun || оправдание, подтверждение правоты || vindication; justification
+parable|noun || притча || parable
+poise|verb || держать в равновесии, балансировать || poise; balance; hold
+minster|verb || SKIP
+wrack|verb || мучить, терзать || wrack; rack; torment
+ironic|adjective || ироничный, парадоксальный || ironic; ironical; sardonic
+ally|verb || объединяться (в союз) || ally; unite; join forces
+callous|adjective || чёрствый, бессердечный || callous; heartless; unfeeling
+callously|adverb || чёрство, бессердечно || callously; heartlessly
+derelict|adjective || заброшенный, обветшалый || derelict; abandoned; run-down
+derelict|noun || бродяга, заброшенное здание || derelict; vagrant
+materialism|noun || материализм, меркантильность || materialism
+materialistic|adjective || меркантильный, материалистический || materialistic
+ferocity|noun || свирепость || ferocity; fierceness; violence
+utter|adjective || полнейший, абсолютный || utter; complete; total
+evokingly|adverb || SKIP
+recitation|noun || декламация, чтение вслух || recitation; recital
+equable|adjective || ровный, уравновешенный || equable; even; calm
+extant|adjective || сохранившийся, существующий || extant; surviving; existing
+denounce|verb || осуждать, обличать || denounce; condemn; accuse
+denunciation|noun || осуждение, донос || denunciation; condemnation
+echo|noun || эхо || echo
+echo|verb || отдаваться эхом, повторять || echo; reverberate; repeat
+requisition|noun || реквизиция, заявка (на материалы) || requisition; request; order
+substantiate|verb || подтверждать доказательствами || substantiate; prove; verify
+inscrutable|adjective || непроницаемый, загадочный || inscrutable; mysterious; enigmatic
+stratosphere|noun || стратосфера || stratosphere
+indulgence|noun || потакание, баловство || indulgence; leniency
+indulgently|adverb || снисходительно, потакая || indulgently; leniently
+laudatory|adjective || хвалебный || laudatory; praising; complimentary
+laud|verb || восхвалять || laud; praise; extol
+glitz|noun || мишура, показной блеск || glitz; glamour; razzle-dazzle
+glitzy|adjective || блестящий, показной || glitzy; flashy; glamorous
+automate|verb || автоматизировать || automate
+apprehend|verb || арестовывать, задерживать || apprehend; arrest; catch
+athleticism|noun || атлетизм, спортивность || athleticism
+acreage|noun || площадь в акрах || acreage; area
+affectation|noun || манерность, притворство || affectation; pretense; pretension
+imposition|noun || навязывание, обременение || imposition; burden
+stipulate|verb || оговаривать (условия), ставить условием || stipulate; specify; require
+stipulation|noun || условие (оговорка) || stipulation; condition; requirement
+allot|verb || выделять, распределять (долю) || allot; allocate; assign
+allotment|noun || выделенная доля, надел || allotment; allocation; share
+anticlimactically|adverb || SKIP
+forfeiture|noun || конфискация, потеря (права) || forfeiture; loss
+blitz|verb || бомбить, обрушиваться (в массовом порядке) || blitz; bombard
+blitz|noun || блицкриг, массированная атака || blitz
+primeval|adjective || первобытный, изначальный || primeval; primordial; ancient
+tenacity|noun || упорство, цепкость || tenacity; persistence; determination
+tenacious|adjective || упорный, цепкий || tenacious; persistent; determined
+tenaciously|adverb || упорно, цепко || tenaciously; persistently
+exact|verb || требовать, взыскивать || exact; demand; extract
+genomic|adjective || геномный || genomic
+genomically|adverb || SKIP
+capacious|adjective || вместительный || capacious; roomy; spacious
+utilization|noun || использование, утилизация || utilization; utilisation; use
+unequivocal|adjective || недвусмысленный, однозначный || unequivocal; unambiguous; clear
+unequivocally|adverb || однозначно, недвусмысленно || unequivocally; unambiguously; clearly
+spontaneity|noun || спонтанность || spontaneity
+provocation|noun || провокация || provocation
+portraiture|noun || портретная живопись, портретный жанр || portraiture
+circumnavigate|verb || совершать кругосветное плавание, обходить вокруг || circumnavigate; sail around
+circumnavigation|noun || кругосветное плавание || circumnavigation
+liaise|verb || поддерживать связь, взаимодействовать || liaise; coordinate; communicate
+contractual|adjective || договорный || contractual
+contractually|adverb || по договору || contractually
+repute|noun || репутация, известность || repute; reputation; standing
+abject|adjective || жалкий, беспросветный || abject; wretched; miserable
+sheaf|noun || сноп, пачка (бумаг) || sheaf; bundle; wad
+articulation|noun || артикуляция, чёткое выражение || articulation; expression
+articulate|adjective || красноречивый, чётко выражающийся || articulate; eloquent; well-spoken
+spurious|adjective || ложный, поддельный || spurious; false; bogus
+spuriously|adverb || ложно, необоснованно || spuriously; falsely
+posture|verb || рисоваться, позировать (изображать из себя) || posture; pose; posture
+calorific|adjective || калорийный || calorific; high-calorie
+fabulate|verb || SKIP
+fabulation|noun || SKIP
+octogenarian|noun || восьмидесятилетний человек || octogenarian
+voracity|noun || ненасытность, жадность || voracity; greediness
+brandish|verb || размахивать (оружием) || brandish; wave; flourish
+repose|verb || покоиться, отдыхать || repose; rest; lie
+repose|noun || покой, отдых || repose; rest; tranquility
+unencumbered|adjective || ничем не стеснённый, свободный || unencumbered; free; unburdened
+buffoonery|noun || шутовство, клоунада || buffoonery; clowning; foolery
+gauche|adjective || неловкий, бестактный || gauche; awkward; clumsy
+domesticity|noun || семейная жизнь, домашний уют || domesticity; home life
+accrue|verb || накапливаться, нарастать (о выгоде, процентах) || accrue; accumulate; build up
+proliferation|noun || быстрое распространение, размножение || proliferation; spread; growth
+blandishment|noun || лесть, заискивание || blandishment; flattery; cajolery
+pluck|noun || мужество, храбрость || pluck; courage; spirit
+anthropological|adjective || антропологический || anthropological
+anthropologically|adverb || SKIP
+carbonize|verb || обугливать, карбонизировать || carbonize; carbonise; char
+monastic|adjective || монастырский || monastic
+graft|noun || прививка, трансплантат || graft; transplant
+midwifery|noun || акушерство || midwifery
+adornment|noun || украшение, убранство || adornment; decoration; ornament
+idle|verb || бездельничать, работать вхолостую || idle; loaf; do nothing
+conjecture|verb || предполагать, строить догадки || conjecture; guess; speculate
+conjecture|noun || догадка, предположение || conjecture; guess; speculation
+malleable|adjective || ковкий, податливый || malleable; pliable; flexible
+malleability|noun || ковкость, податливость || malleability; flexibility
+ore|noun || руда || ore
+gale|noun || штормовой ветер || gale; strong wind
+promenade|noun || набережная, прогулочная аллея || promenade; boardwalk
+testimonial|noun || рекомендательное письмо, отзыв || testimonial; reference
+distill|verb || перегонять, дистиллировать || distill; distil; refine
+distillation|noun || перегонка, дистилляция || distillation
+informant|noun || информатор, источник сведений || informant; source
+overlay|verb || накладывать, покрывать || overlay; cover; superimpose
+nostalgia|noun || ностальгия || nostalgia
+nostalgic|adjective || ностальгический || nostalgic
+nostalgically|adverb || ностальгически || nostalgically
+grievance|noun || обида, жалоба || grievance; complaint; gripe
+residue|noun || остаток, осадок || residue; remainder; leftovers
+residual|adjective || остаточный || residual; remaining
+physiological|adjective || физиологический || physiological
+physiologically|adverb || физиологически || physiologically
+methodology|noun || методология || methodology
+methodological|adjective || методологический || methodological
+methodologically|adverb || методологически || methodologically
+proportional|adjective || пропорциональный || proportional; proportionate
+proportionally|adverb || пропорционально || proportionally; proportionately
+habitation|noun || жильё, обитание || habitation; dwelling
+inartistic|adjective || неартистичный, лишённый вкуса || inartistic; unartistic
+ornate|adjective || витиеватый, богато украшенный || ornate; elaborate; fancy
+modernism|noun || модернизм || modernism
+presuppose|verb || предполагать, подразумевать || presuppose; assume; presume
+presupposition|noun || предпосылка, допущение || presupposition; assumption
+centralized|adjective || централизованный || centralized; centralised
+transmitter|noun || передатчик || transmitter
+regulatory|adjective || регулирующий, надзорный || regulatory
+archival|adjective || архивный || archival
+diffuse|adjective || рассеянный, расплывчатый || diffuse; scattered; vague
+diffuse|verb || рассеивать, распространять || diffuse; spread; disperse
+egalitarian|adjective || эгалитарный, уравнительный || egalitarian
+egalitarian|noun || сторонник равенства || egalitarian
+hindsight|noun || задним умом, ретроспективный взгляд || hindsight
+materialize|verb || осуществляться, воплощаться || materialize; materialise; come about
+materialization|noun || материализация, воплощение || materialization; materialisation
+disperse|verb || рассеивать, разгонять, расходиться || disperse; scatter; break up
+dispersal|noun || рассеивание, расселение || dispersal; scattering
+stabilize|verb || стабилизировать || stabilize; stabilise; steady
+pervasive|adjective || всепроникающий, повсеместный || pervasive; widespread; prevalent
+pervasiveness|noun || повсеместность, распространённость || pervasiveness
+secure|verb || обеспечивать, закреплять || secure; obtain; fasten
+autonomous|adjective || автономный || autonomous; independent; self-governing
+autonomously|adverb || автономно || autonomously; independently
+outmoded|adjective || устаревший, вышедший из моды || outmoded; outdated; obsolete
+plum|adjective || выгодный, лакомый (о должности) || plum; desirable; choice
+notoriously|adverb || печально известно, пресловуто || notoriously
+notoriety|noun || дурная слава || notoriety; infamy
+menial|adjective || чёрный, неквалифицированный (о работе) || menial; lowly; unskilled
+insular|adjective || замкнутый, узколобый (островной) || insular; narrow-minded; isolated
+antidote|noun || противоядие || antidote; remedy
+postural|adjective || позный, связанный с осанкой || postural
+posturing|noun || рисовка, показная поза || posturing; showing off
+revelatory|adjective || открывающий новое, откровенный || revelatory; revealing; enlightening
+prostrate|verb || повергать ниц, лечь ниц || prostrate; lie flat
+prostrate|adjective || распростёртый, обессиленный || prostrate; lying flat; overcome
+haphazard|adjective || беспорядочный, случайный || haphazard; random; disorganized
+haphazardly|adverb || беспорядочно, как попало || haphazardly; randomly
+deficient|adjective || недостаточный, дефицитный || deficient; lacking; inadequate
+deficiently|adverb || недостаточно || deficiently
+delicatessen|noun || магазин деликатесов, кулинария || delicatessen; deli
+muscle-bound|adjective || перекачанный, скованный мышцами || muscle-bound
+posit|verb || постулировать, выдвигать как предположение || posit; propose; postulate
+cocoon|verb || укутывать, ограждать от мира || cocoon; wrap; envelop
+chrysalis|noun || куколка (насекомого) || chrysalis; pupa
+ignominious|adjective || позорный, бесславный || ignominious; shameful; humiliating
+ignominiously|adverb || позорно, бесславно || ignominiously; shamefully
+euphoria|noun || эйфория || euphoria; elation
+euphoric|adjective || эйфорический, восторженный || euphoric; elated; ecstatic
+euphorically|adverb || в эйфории || euphorically
+relegate|verb || переводить в низшую категорию, низводить || relegate; demote; downgrade
+succumb|verb || поддаваться, не устоять || succumb; yield; give in
+treacherous|adjective || коварный, вероломный || treacherous; dangerous; deceitful
+treacherously|adverb || коварно, вероломно || treacherously; deceitfully
+treachery|noun || предательство, измена || treachery; betrayal; disloyalty
+maggot|noun || личинка (мухи), червь || maggot
+palate|noun || нёбо, вкус (способность различать вкусы) || palate; taste
+palatable|adjective || приятный на вкус, приемлемый || palatable; tasty; acceptable
+hermit|noun || отшельник || hermit; recluse
+hermetic|adjective || герметичный, закрытый || hermetic; airtight; sealed
+irrelevancy|noun || неуместность, нерелевантность || irrelevancy; irrelevance
+mariner|noun || моряк, мореход || mariner; sailor; seaman
+rift|noun || раскол, трещина (в отношениях) || rift; split; breach
+helm|noun || штурвал, руль || helm; wheel; tiller
+autopilot|noun || автопилот || autopilot
+eminence|noun || выдающееся положение, видный пост || eminence; distinction; prominence
+eminent|adjective || выдающийся, видный || eminent; distinguished; prominent
+preeminent|adjective || выдающийся, превосходящий всех || preeminent; pre-eminent; outstanding
+mold|verb || лепить, формировать (характер) || mold; mould; shape
+unsuspected|adjective || неожиданный, непредвиденный || unsuspected; unexpected; unforeseen
+paralyzingly|adverb || до паралича, парализующе || paralyzingly; paralysingly
+glory in|verb || упиваться, наслаждаться (чем-то) || glory in; revel in; take pride in
+decentralize|verb || децентрализовать || decentralize; decentralise
+preoccupation|noun || озабоченность, поглощённость || preoccupation; obsession; concern
+prolong|verb || продлевать, затягивать || prolong; extend; lengthen
+audit|verb || проводить аудит, проверять || audit; inspect; examine
+drudgery|noun || нудная тяжёлая работа, каторга || drudgery; toil; grind
+pressurize|verb || герметизировать, оказывать давление || pressurize; pressurise; pressure
+pressurization|noun || герметизация, нагнетание давления || pressurization; pressurisation
+intermediary|noun || посредник || intermediary; mediator; go-between
+hotelier|noun || владелец отеля, отельер || hotelier; hotel owner
+denote|verb || означать, обозначать || denote; signify; indicate
+denotation|noun || обозначение, прямое значение || denotation; meaning
+profitability|noun || прибыльность, рентабельность || profitability
+jargon|noun || жаргон, профессиональный язык || jargon; lingo
+declination|noun || склонение (угол), отклонение || declination; deviation
+vocational|adjective || профессиональный (об обучении) || vocational; occupational
+spatial|adjective || пространственный || spatial
+spatially|adverb || пространственно || spatially
+integration|noun || интеграция || integration
+extracurricular|adjective || внеклассный, внеучебный || extracurricular
+extracurricular|noun || внеучебное занятие || extracurricular activity; extracurricular
+encompass|verb || охватывать, включать || encompass; include; cover
+all-encompassing|adjective || всеобъемлющий || all-encompassing; comprehensive; all-inclusive
+accountability|noun || подотчётность, ответственность || accountability; responsibility
+frolic|verb || резвиться, дурачиться || frolic; romp; play
+minefield|noun || минное поле, опасная зона || minefield
+side-step|verb || обходить стороной, уклоняться || sidestep; side-step; dodge; avoid
+abundantly|adverb || в изобилии, в избытке || abundantly; plentifully
+anarchic|adjective || анархический, беспорядочный || anarchic; chaotic
+crystallization|noun || кристаллизация || crystallization; crystallisation
+prescriptive|adjective || предписывающий, нормативный || prescriptive
+slab|noun || плита, толстый кусок || slab; block
+retrospective|adjective || ретроспективный || retrospective
+retrospection|noun || ретроспекция, оглядка на прошлое || retrospection; looking back
+wordage|noun || SKIP
+brevity|noun || краткость || brevity; conciseness
+uncanny|adjective || жуткий, сверхъестественный || uncanny; eerie; weird
+tactic|noun || тактика, приём || tactic; strategy; maneuver
+tactical|adjective || тактический || tactical
+tactically|adverb || тактически || tactically
+gambit|noun || хитрый ход, уловка || gambit; ploy; maneuver
+babble|verb || лепетать, болтать без умолку || babble; chatter; prattle
+bauble|noun || безделушка, ёлочная игрушка || bauble; trinket
+correlate|noun || коррелят, соответствие || correlate
+correlation|noun || корреляция, взаимосвязь || correlation; connection; relationship
+correlate|verb || коррелировать, соотносить || correlate; correspond; relate
+combustion|noun || сгорание, горение || combustion; burning
+painstaking|adjective || кропотливый, тщательный || painstaking; meticulous; careful
+painstakingly|adverb || кропотливо, тщательно || painstakingly; meticulously
+contraption|noun || хитроумное устройство, штуковина || contraption; gadget; device
+mesh|verb || сочетаться, зацепляться || mesh; fit together; combine
+enabler|noun || пособник, тот, кто делает возможным || enabler
+fluctuate|verb || колебаться (об уровне, цене) || fluctuate; vary; swing
+fluctuation|noun || колебание, флуктуация || fluctuation; variation
+lyricist|noun || автор текстов песен || lyricist; songwriter
+lyrical|adjective || лирический, поэтичный || lyrical; poetic
+lyrically|adverb || лирично, поэтично || lyrically; poetically
+bona fide|adjective || добросовестный, подлинный || bona fide; genuine; authentic
+moribund|adjective || умирающий, увядающий || moribund; dying; declining
+perch|verb || усаживаться (на жёрдочку), примоститься || perch; sit; roost
+perch|noun || жёрдочка, насест || perch; roost
+solicit|verb || ходатайствовать, выпрашивать || solicit; request; seek
+philanthropy|noun || филантропия, благотворительность || philanthropy; charity
+philanthropist|noun || филантроп, благотворитель || philanthropist; benefactor
+philanthropic|adjective || филантропический, благотворительный || philanthropic; charitable
+philanthropically|adverb || по-филантропски, из благотворительности || philanthropically
+precocious|adjective || не по годам развитой || precocious; advanced; gifted
+precociously|adverb || не по годам, рано развившись || precociously
+wordsmith|noun || мастер слова || wordsmith; writer
+connote|verb || подразумевать, иметь коннотацию || connote; imply; suggest
+connotation|noun || коннотация, оттенок значения || connotation; implication
+herald|verb || возвещать, предвещать || herald; announce; signal
+herald|noun || глашатай, предвестник || herald; harbinger
+philistine|noun || обыватель, невежда || philistine
+innuendo|noun || намёк, инсинуация || innuendo; insinuation; hint
+induce|verb || вызывать, побуждать || induce; cause; persuade
+inducement|noun || побуждение, стимул || inducement; incentive; enticement
+anthology|noun || антология, сборник || anthology; collection
+lament|verb || оплакивать, сетовать || lament; mourn; bemoan
+lamentation|noun || плач, причитание || lamentation; wailing
+conduit|noun || канал, трубопровод || conduit; channel; pipe
+chronology|noun || хронология || chronology; timeline
+chronologically|adverb || в хронологическом порядке || chronologically
+equilibrium|noun || равновесие || equilibrium; balance
+rebound|verb || отскакивать, восстанавливаться || rebound; bounce back; recover
+rebound|noun || отскок, восстановление || rebound; recovery
+proposition|noun || предложение, утверждение || proposition; proposal; offer
+flagging|adjective || ослабевающий, угасающий || flagging; waning; fading
+electrode|noun || электрод || electrode
+caffeinate|verb || взбадривать кофеином || caffeinate
+cosmic|adjective || космический || cosmic
+interlude|noun || интерлюдия, промежуток || interlude; interval; break
+beneficiary|noun || бенефициар, получатель выгоды || beneficiary; recipient
+recuperate|verb || поправляться, восстанавливать силы || recuperate; recover; convalesce
+recuperation|noun || выздоровление, восстановление || recuperation; recovery
+recuperative|adjective || восстановительный, укрепляющий || recuperative; restorative
+cultish|adjective || сектантский, культовый || cultish; sect-like
+seismic|adjective || сейсмический, грандиозный (о переменах) || seismic
+irrevocably|adverb || бесповоротно || irrevocably; permanently; irreversibly
+irrevocable|adjective || безвозвратный, бесповоротный || irrevocable; irreversible; final
+slither|verb || скользить (о змее), ползти || slither; slide; glide
+unnerve|verb || лишать самообладания, пугать || unnerve; intimidate; rattle
+unnerving|adjective || выбивающий из колеи, пугающий || unnerving; disconcerting; daunting
+unnervingly|adverb || пугающе, до мурашек || unnervingly; disconcertingly
+protrude|verb || выступать, торчать || protrude; stick out; jut out
+protrusion|noun || выступ, выпуклость || protrusion; bulge; projection
+qualitative|adjective || качественный (о анализе) || qualitative
+procedural|adjective || процедурный || procedural
+procedural|noun || детективный сериал (о работе полиции) || procedural
+demystify|verb || развеивать тайну, объяснять просто || demystify; clarify; explain
+demystification|noun || развенчание таинственности || demystification
+proprietary|adjective || патентованный, собственнический || proprietary; patented; branded
+proprietorial|adjective || собственнический (о владельце) || proprietorial; possessive
+floodgates|noun || шлюзы (прорыв, открывающий поток) || floodgates
+imperceptible|adjective || незаметный, неуловимый || imperceptible; unnoticeable; undetectable
+imperceptibly|adverb || незаметно, неуловимо || imperceptibly; unnoticeably
+hapless|adjective || невезучий, несчастный || hapless; unlucky; unfortunate
+catastrophically|adverb || катастрофически || catastrophically; disastrously
+wayward|adjective || своенравный, непослушный || wayward; willful; unruly
+blurb|noun || аннотация (на обложке), рекламный текст || blurb
+provincial|adjective || провинциальный || provincial; parochial
+indolent|adjective || ленивый, праздный || indolent; lazy; idle
+indolently|adverb || лениво, праздно || indolently; lazily
+indolence|noun || лень, праздность || indolence; laziness
+taste-maker|noun || законодатель вкуса || tastemaker; taste-maker; trendsetter
+deviant|noun || человек с отклонениями || deviant; pervert
+deviant|adjective || отклоняющийся (от нормы) || deviant; abnormal; aberrant
+deviantly|adverb || с отклонением от нормы || deviantly
+engender|verb || порождать, вызывать || engender; cause; produce
+emolument|noun || вознаграждение, жалованье || emolument; salary; payment
+munificence|noun || щедрость (великодушие) || munificence; generosity
+posterity|noun || потомки || posterity; future generations
+venomous|adjective || ядовитый (о змее), злобный || venomous; poisonous; spiteful
+venomously|adverb || ядовито, злобно || venomously; spitefully
+choreography|noun || хореография || choreography
+choreographical|adjective || хореографический || choreographic; choreographical
+archetype|noun || архетип, прообраз || archetype; prototype
+archetypal|adjective || архетипический, типичный || archetypal; typical
+dissension|noun || разногласия, раздор || dissension; disagreement; discord
+exalted|adjective || высокий, возвышенный (о положении) || exalted; elevated; lofty
+exaltedly|adverb || возвышенно, высоко || exaltedly
+adept|adjective || искусный, умелый || adept; skilled; proficient
+adept|noun || мастер, знаток || adept; expert
+hitherto|adverb || до сих пор, доселе || hitherto; until now; so far
+angst|noun || тревога, экзистенциальная тоска || angst; anxiety; dread
+angsty|adjective || терзаемый тревогой, тоскливый || angsty; anxious; moody
+drabness|noun || серость, унылость || drabness; dullness
+melodious|adjective || мелодичный || melodious; tuneful; musical
+melodiously|adverb || мелодично || melodiously; tunefully
+magpie|noun || сорока || magpie
+melancholy|noun || меланхолия, грусть || melancholy; sadness; gloom
+melancholy|adjective || меланхоличный, грустный || melancholy; sad; gloomy
+meteorology|noun || метеорология || meteorology
+meteorological|adjective || метеорологический || meteorological
+brink|noun || грань, край (пропасти) || brink; edge; verge
+unsurpassed|adjective || непревзойдённый || unsurpassed; unrivaled; unmatched
+loiter|verb || слоняться, околачиваться || loiter; linger; hang around
+topple|verb || опрокидываться, свергать || topple; overthrow; fall over
+intrinsic|adjective || внутренне присущий, неотъемлемый || intrinsic; inherent; essential
+intrinsically|adverb || по своей сути, изначально || intrinsically; inherently
+merit|noun || достоинство, заслуга || merit; virtue; worth
+merit|verb || заслуживать || merit; deserve; warrant
+promotable|adjective || годный к повышению || promotable
+clinch|verb || закрепить (победу), заключить (сделку) || clinch; settle; secure
+anonymity|noun || анонимность || anonymity
+splinter|verb || раскалываться на части, расщепляться || splinter; shatter; split
+reproach|verb || упрекать, укорять || reproach; blame; rebuke
+disseminate|verb || распространять (информацию) || disseminate; spread; circulate
+dissemination|noun || распространение (информации) || dissemination; spread
+dissemble|verb || скрывать (истинные чувства), лицемерить || dissemble; disguise; feign
+mangle|verb || калечить, коверкать || mangle; maul; butcher
+bereft|adjective || лишённый (чего-то важного) || bereft; deprived; devoid
+bereftly|adverb || SKIP
+solipsism|noun || солипсизм || solipsism
+soliloquize|verb || произносить монолог (наедине с собой) || soliloquize; talk to oneself
+mutinous|adjective || мятежный, бунтарский || mutinous; rebellious
+mutinously|adverb || мятежно, бунтарски || mutinously; rebelliously
+prissy|adjective || чопорный, придирчивый || prissy; prim; fussy
+reptilian|adjective || рептильный, пресмыкающийся || reptilian
+diminish|verb || уменьшать(ся), убывать || diminish; decrease; lessen
+undiminishing|adjective || неослабевающий || undiminishing; unabated
+contagion|noun || заразная болезнь, инфекция (распространение) || contagion; infection
+homestead|noun || усадьба, ферма || homestead; farmstead
+computerize|verb || компьютеризировать || computerize; computerise
+incumbent|noun || действующий должностное лицо || incumbent; officeholder
+incumbent|adjective || действующий (на посту), обязательный (долг) || incumbent; current; obligatory
+recumbent|adjective || лежащий, полулежачий || recumbent; reclining; lying
+nonchalant|adjective || беззаботный, безразличный || nonchalant; casual; unconcerned
+nonchalantly|adverb || беззаботно, с безразличным видом || nonchalantly; casually
+mesmeric|adjective || завораживающий, гипнотический || mesmeric; hypnotic; spellbinding
+stultify|verb || притуплять, отупять || stultify; stifle; dull
+stultifyingly|adverb || до одурения, удручающе || stultifyingly
+wallow|verb || валяться (в грязи), купаться (в чувствах) || wallow; roll; bask
+ponderous|adjective || тяжеловесный, неповоротливый || ponderous; heavy; clumsy
+ponderously|adverb || тяжеловесно, неповоротливо || ponderously; heavily
+lassitude|noun || вялость, томность || lassitude; weariness; languor
+vicinity|noun || окрестности, близость || vicinity; neighborhood; proximity
+ebb|verb || убывать, отступать (о приливе) || ebb; recede; flow back
+wane|verb || убывать, угасать (о луне, интересе) || wane; fade; decline
+antediluvian|adjective || допотопный, архаичный || antediluvian; ancient; outdated
+ostensible|adjective || мнимый, показной || ostensible; apparent; supposed
+ostensibly|adverb || якобы, на словах || ostensibly; supposedly; apparently
+interlocking|adjective || сцепленный, взаимосвязанный || interlocking; interconnected
+undemonstrative|adjective || сдержанный в проявлении чувств || undemonstrative; reserved; reticent
+undemonstratively|adverb || сдержанно, без демонстрации чувств || undemonstratively; reservedly
+menace|noun || угроза, опасность || menace; threat; danger
+menacing|adjective || угрожающий, зловещий || menacing; threatening; ominous
+menacingly|adverb || угрожающе, зловеще || menacingly; threateningly
+calamity|noun || бедствие, катастрофа || calamity; disaster; catastrophe
+calamitous|adjective || бедственный, гибельный || calamitous; disastrous
+calamitously|adverb || бедственно, катастрофически || calamitously; disastrously
+nigh|adverb || почти, близко (устар.) || nigh; near; almost
+austere|adjective || строгий, суровый, аскетичный || austere; severe; stern
+austerely|adverb || сурово, строго, аскетично || austerely; severely
+austerity|noun || строгость, жёсткая экономия || austerity; severity; frugality
+idiosyncrasy|noun || идиосинкразия, особенность характера || idiosyncrasy; quirk; peculiarity
+idiosyncratic|adjective || своеобразный, причудливый || idiosyncratic; peculiar; quirky
+idiomatic|adjective || идиоматический, характерный для языка || idiomatic
+idiomatically|adverb || идиоматически || idiomatically
+kinetic|adjective || кинетический || kinetic
+kinetically|adverb || кинетически || kinetically
+unmediated|adjective || непосредственный, без посредников || unmediated; direct; immediate
+mediate|verb || посредничать, улаживать спор || mediate; arbitrate; negotiate
+mediation|noun || посредничество, медиация || mediation; arbitration
+unharried|adjective || неторопливый, без суеты || unharried; unhurried; calm
+figuratively|adverb || в переносном смысле, образно || figuratively
+exorcism|noun || изгнание нечистой силы, экзорцизм || exorcism
+exorcist|noun || экзорцист || exorcist
+mundanity|noun || обыденность, приземлённость || mundanity; banality; ordinariness
+mediocrity|noun || посредственность || mediocrity
+dubiously|adverb || сомнительно, с сомнением || dubiously; doubtfully; skeptically
+curate|verb || курировать (выставку, подборку) || curate; organize; select
+curator|noun || куратор, хранитель (музея) || curator
+antithesis|noun || антитеза, полная противоположность || antithesis; opposite; contrast
+antithetical|adjective || противоположный, антитетичный || antithetical; opposed; contrary
+parameter|noun || параметр || parameter; variable; limit
+detract|verb || умалять, принижать (достоинство) || detract; take away; diminish
+interrogate|verb || допрашивать || interrogate; question; grill
+interrogation|noun || допрос || interrogation; questioning
+interrogative|adjective || вопросительный || interrogative; questioning
+interrogatively|adverb || вопросительно || interrogatively
+perverse|adjective || упрямый наперекор, извращённый || perverse; contrary; stubborn
+perversity|noun || упрямство наперекор, извращённость || perversity; contrariness
+opaque|adjective || непрозрачный, неясный || opaque; cloudy; unclear
+opacity|noun || непрозрачность, неясность || opacity
+remit|verb || переводить (деньги), передавать на рассмотрение || remit; send; transfer
+remittance|noun || денежный перевод || remittance; payment
+recourse|noun || обращение за помощью, прибегание (к средству) || recourse; resort; option
+pedestal|noun || пьедестал, постамент || pedestal; base
+pedestrian|adjective || заурядный, банальный || pedestrian; dull; ordinary
+lurid|adjective || кричащий, леденящий душу || lurid; sensational; gruesome
+luridly|adverb || кричаще, жутковато || luridly; sensationally
+fallacy|noun || заблуждение, логическая ошибка || fallacy; misconception; false belief
+rife|adjective || широко распространённый, изобилующий || rife; widespread; prevalent
+mercenary|noun || наёмник || mercenary; hired soldier
+polysyllabic|adjective || многосложный || polysyllabic
+syllabic|adjective || слоговой || syllabic
+superfluous|adjective || излишний, лишний || superfluous; unnecessary; redundant
+superfluously|adverb || излишне, лишне || superfluously; unnecessarily
+snippet|noun || отрывок, обрывок (текста, информации) || snippet; fragment; scrap
+practitioner|noun || практик, специалист-практик || practitioner; professional
+ephemeral|adjective || эфемерный, недолговечный || ephemeral; fleeting; transient
+ephemera|noun || недолговечные предметы (афиши, билеты) || ephemera
+ephemerality|noun || недолговечность, эфемерность || ephemerality; transience
+summarily|adverb || без суда, скоропалительно || summarily; immediately; without delay
+infallibly|adverb || безошибочно || infallibly; unfailingly
+infallible|adjective || непогрешимый, безошибочный || infallible; unerring; faultless
+infallibility|noun || непогрешимость || infallibility
+depravity|noun || развращённость, порок || depravity; corruption; vice
+depraved|adjective || развращённый, порочный || depraved; corrupt; perverted
+deprecate|verb || осуждать, не одобрять || deprecate; disapprove; belittle
+deprecatingly|adverb || с неодобрением, пренебрежительно || deprecatingly; dismissively
+revile|verb || поносить, бранить || revile; abuse; vilify
+revulsion|noun || отвращение || revulsion; disgust; repugnance
+meager|adjective || скудный, жалкий || meager; meagre; scanty; paltry
+arcane|adjective || тайный, малопонятный (посвящённым) || arcane; mysterious; esoteric
+arcanely|adverb || загадочно, таинственно || arcanely; mysteriously
+porten|noun || знамение, предвестие || portent; omen; sign
+divination|noun || гадание, предсказание || divination; fortune-telling
+flit|verb || порхать, мелькать || flit; flutter; dart
+hitch|verb || цеплять, подвозить (автостопом) || hitch; hook; attach
+prone|adjective || склонный (к чему-то), лежащий ничком || prone; liable; inclined
+scavenger|noun || падальщик, мусорщик || scavenger
+vermin|noun || вредители, паразиты || vermin; pests
+totemic|adjective || тотемный || totemic
+emulate|verb || подражать, стараться сравняться || emulate; imitate; match
+emulation|noun || подражание, соперничество || emulation; imitation
+avian|adjective || птичий || avian
+vestigial|adjective || рудиментарный, остаточный || vestigial; rudimentary
+vestigially|adverb || в рудиментарной форме || vestigially
+brouhaha|noun || шумиха, переполох || brouhaha; uproar; commotion
+magnate|noun || магнат, крупный бизнесмен || magnate; tycoon; mogul
+magnanimous|adjective || великодушный || magnanimous; generous; big-hearted
+magnanimously|adverb || великодушно || magnanimously; generously
+magnanimity|noun || великодушие || magnanimity; generosity
+whirlwind|noun || вихрь, смерч || whirlwind
+secular|adjective || светский, мирской || secular; non-religious; worldly
+secularly|adverb || по-светски, вне религии || secularly
+euphemism|noun || эвфемизм || euphemism
+euphemistic|adjective || эвфемистический || euphemistic
+euphemistically|adverb || эвфемистически || euphemistically
+condensation|noun || конденсация, сокращение || condensation
+redundancy|noun || избыточность, сокращение штата || redundancy; layoff
+redundantly|adverb || избыточно, излишне || redundantly
+colloquial|adjective || разговорный || colloquial; informal; conversational
+colloquium|noun || коллоквиум, научная конференция || colloquium; seminar
+colloquially|adverb || в разговорной речи || colloquially; informally
+allusion|noun || намёк, аллюзия || allusion; reference; hint
+allude|verb || намекать, ссылаться (косвенно) || allude; refer; hint
+disparage|verb || умалять, принижать || disparage; belittle; denigrate
+disparaging|adjective || пренебрежительный, унизительный || disparaging; belittling; derogatory
+disparagingly|adverb || пренебрежительно, принижающе || disparagingly; dismissively
+disparagement|noun || умаление, принижение || disparagement; belittlement
+huddle|verb || сбиваться в кучу, жаться друг к другу || huddle; crowd; cuddle
+huddle|noun || кучка людей, тесная группа || huddle; cluster
+topography|noun || топография, рельеф местности || topography; terrain
+topographical|adjective || топографический || topographical; topographic
+topographically|adverb || топографически || topographically
+confabulate|verb || SKIP
+confabulation|noun || SKIP
+surrealist|noun || сюрреалист || surrealist
+surrealism|noun || сюрреализм || surrealism
+contrive|verb || изобретать, умудряться (придумать) || contrive; devise; engineer
+malice|noun || злоба, недоброжелательность || malice; spite; ill will
+malicious|adjective || злонамеренный, злобный || malicious; spiteful; malevolent
+maliciously|adverb || злонамеренно, со злобой || maliciously; spitefully
+cinematography|noun || кинематография, операторское искусство || cinematography
+cinematographer|noun || кинооператор || cinematographer; director of photography
+maverick|noun || независимый человек, белая ворона || maverick; nonconformist; loner
+diligently|adverb || усердно, старательно || diligently; carefully; industriously
+turret|noun || башенка, орудийная башня || turret; small tower
+impressionistic|adjective || импрессионистический || impressionistic
+impressionistically|adverb || импрессионистически || impressionistically
+snobbery|noun || снобизм, чванство || snobbery; elitism
+parochial|adjective || узколобый, ограниченный (местный) || parochial; narrow-minded; provincial
+gravitate|verb || тяготеть, притягиваться || gravitate; be drawn; tend
+gravitational|adjective || гравитационный || gravitational
+gravitationally|adverb || гравитационно || gravitationally
+consternation|noun || замешательство, оторопь || consternation; dismay; alarm
+haughty|adjective || надменный, высокомерный || haughty; arrogant; proud
+haughtily|adverb || надменно, высокомерно || haughtily; arrogantly
+axiom|noun || аксиома || axiom; principle
+axiomatic|adjective || аксиоматичный, не требующий доказательств || axiomatic; self-evident
+attrition|noun || истощение, естественная убыль || attrition; wearing down
+enduringly|adverb || прочно, неизменно || enduringly; lastingly
+reissue|verb || переиздавать, выпускать повторно || reissue; re-release; republish
+sulphuric|adjective || серный (о кислоте) || sulfuric; sulphuric
+phantom|noun || призрак, фантом || phantom; ghost; specter
+moor|noun || вересковая пустошь || moor; heath
+solitary|adjective || одинокий, уединённый || solitary; lone; isolated
+solitary|noun || одиночное заключение (разг.), отшельник || solitary; solitary confinement
+solitariness|noun || одиночество, уединённость || solitariness; aloneness
+solitude|noun || уединение, одиночество || solitude; isolation; seclusion
+adhere|verb || придерживаться, прилипать || adhere; stick; comply with
+adhesion|noun || адгезия, сцепление || adhesion; sticking
+proscribe|verb || запрещать, объявлять вне закона || proscribe; ban; forbid
+proscription|noun || запрет, запрещение || proscription; ban; prohibition
+crony|noun || приятель, подручный (в сомнительных делах) || crony; buddy; sidekick
+dribble|verb || капать, вести мяч (в спорте) || dribble; drip; trickle
+dribble|noun || капля, ведение мяча (в спорте) || dribble; drip
+ingrate|noun || неблагодарный человек || ingrate; ungrateful person
+prise|verb || отжимать, вскрывать рычагом || prise; pry; force open
+rickety|adjective || ветхий, шаткий || rickety; shaky; ramshackle
+consign|verb || передавать, сдавать на хранение (или на комиссию) || consign; entrust; hand over
+consignment|noun || партия товара, груз || consignment; shipment
+fete|noun || праздник, гулянье (благотворительный) || fete; fair; festival
+dole out|verb || выдавать понемногу, раздавать || dole out; hand out; distribute
+opulent|adjective || роскошный, пышный || opulent; luxurious; lavish
+opulence|noun || роскошь, богатство || opulence; luxury; affluence
+opulently|adverb || роскошно, пышно || opulently; luxuriously; lavishly
+plutocrat|noun || плутократ, богач || plutocrat
+averse|adjective || не склонный, испытывающий неприязнь || averse; opposed; reluctant
+edify|verb || поучать, назидать || edify; enlighten; instruct
+edification|noun || назидание, духовное просвещение || edification; enlightenment
+converse|adjective || обратный, противоположный || converse; opposite; reverse
+sterility|noun || бесплодие, стерильность || sterility
+rhetoric|noun || риторика || rhetoric
+rhetorical|adjective || риторический || rhetorical
+rhetorically|adverb || риторически || rhetorically
+flighty|adjective || ветреный, непостоянный || flighty; fickle; capricious
+flightiness|noun || ветреность, непостоянство || flightiness; fickleness
+brimstone|noun || сера (в выражении «огонь и сера») || brimstone; sulfur
+impeccable|adjective || безупречный || impeccable; flawless; perfect
+impeccably|adverb || безупречно || impeccably; flawlessly
+romp|verb || резвиться, играть шумно || romp; frolic; play
+romper|noun || ползунки, детский комбинезон || romper
+meticulous|adjective || дотошный, скрупулёзный || meticulous; thorough; careful
+meticulously|adverb || дотошно, скрупулёзно || meticulously; thoroughly
+ingratiate|verb || заискивать, втираться в доверие || ingratiate; curry favor
+ingratiating|adjective || заискивающий, угодливый || ingratiating; fawning; obsequious
+ingratiatingly|adverb || заискивающе, угодливо || ingratiatingly; obsequiously
+shimmer|verb || мерцать, переливаться || shimmer; glimmer; glisten
+hull|noun || корпус (судна), шелуха || hull; shell
+cull|verb || выбраковывать, отбирать || cull; select; pick
+swivel|verb || поворачиваться вокруг оси || swivel; rotate; pivot
+quiver|verb || дрожать, трепетать || quiver; tremble; shake
+quiver|noun || дрожь, колчан || quiver; tremble
+sandwiched|adjective || зажатый (между чем-то) || sandwiched; squeezed; wedged
+mottled|adjective || пятнистый, крапчатый || mottled; spotted; blotchy
+epoxy|noun || эпоксидная смола, эпоксидный клей || epoxy
+angular|adjective || угловатый, костлявый || angular; bony; sharp
+angularity|noun || угловатость || angularity
+dampen|verb || увлажнять, охлаждать (пыл) || dampen; moisten; discourage
+buccaneer|verb || заниматься пиратством || buccaneer; plunder
+buccaneer|noun || пират, корсар || buccaneer; pirate
+conglomerate|noun || конгломерат, многопрофильная компания || conglomerate; corporation
+cay|noun || низкий коралловый остров, риф || cay; key
+singe|verb || опалять, слегка обжигать || singe; scorch; burn
+cordon|verb || оцеплять || cordon off; seal off; block off
+fabled|adjective || легендарный, сказочный || fabled; legendary; famous
+glint|verb || блестеть, сверкать || glint; sparkle; gleam
+infernal|adjective || адский, проклятый || infernal; hellish; damned
+infernally|adverb || адски, чертовски || infernally; hellishly
+presentational|adjective || связанный с подачей, презентационный || presentational
+embed|verb || встраивать, внедрять || embed; implant; insert
+plume|noun || султан из перьев, шлейф (дыма) || plume
+happenstance|noun || случайное стечение обстоятельств || happenstance; chance; coincidence
+reconcile|verb || примирять, согласовывать || reconcile; settle; harmonize
+reconciliation|noun || примирение, согласование || reconciliation
+conciliatory|adjective || примирительный || conciliatory; placating; peaceable
+conciliation|noun || умиротворение, примирение сторон || conciliation; appeasement
+preconception|noun || предвзятое мнение || preconception; prejudice; bias
+baroque|adjective || барочный || baroque
+virginal|adjective || девственный, непорочный || virginal; chaste; pure
+spire|noun || шпиль || spire; steeple
+elephantine|adjective || слоноподобный, громоздкий || elephantine; huge; clumsy
+condone|verb || попустительствовать, закрывать глаза на || condone; excuse; overlook
+commodity|noun || товар, сырьевой ресурс || commodity; product; goods
+commode|noun || комод, стул-туалет || commode; chest of drawers
+unobtrusive|adjective || неброский, ненавязчивый || unobtrusive; discreet; inconspicuous
+unobtrusively|adverb || ненавязчиво, незаметно || unobtrusively; discreetly
+unobtrusiveness|noun || ненавязчивость, незаметность || unobtrusiveness
+compellingly|adverb || убедительно, захватывающе || compellingly; convincingly
+hauntingly|adverb || навязчиво, пронзительно || hauntingly; evocatively
+brim|verb || наполняться до краёв || brim; overflow; fill up
+hazard|verb || осмелиться высказать, рисковать || hazard; venture; risk
+authenticity|noun || подлинность, аутентичность || authenticity; genuineness
+scholarly|adjective || научный, учёный || scholarly; academic
+cognitive|adjective || когнитивный, познавательный || cognitive
+artifact|noun || артефакт, археологическая находка || artifact; artefact; relic
+preservationist|noun || защитник сохранения (памятников, природы) || preservationist; conservationist
+qualm|noun || угрызение совести, сомнение || qualm; misgiving; doubt
+besiege|verb || осаждать, одолевать || besiege; surround; swamp
+cloister|noun || монастырь, крытая галерея || cloister; monastery
+cloistered|adjective || уединённый, замкнутый (как в монастыре) || cloistered; sheltered; secluded
+annex|noun || пристройка, флигель || annex; annexe; extension
+annex|verb || аннексировать, присоединять || annex; seize; add
+resuscitate|verb || реанимировать, оживлять || resuscitate; revive; bring back
+resuscitation|noun || реанимация, оживление || resuscitation; revival
+ravish|verb || восхищать, очаровывать (устар. — похищать) || ravish; enchant; delight
+fabricate|verb || выдумывать, подделывать || fabricate; invent; forge
+fabrication|noun || выдумка, подделка || fabrication; invention; forgery
+patchy|adjective || неравномерный, пятнистый || patchy; uneven; sporadic
+patchily|adverb || неравномерно, местами || patchily; unevenly
+resounding|adjective || громкий, оглушительный (о успехе) || resounding; thunderous; emphatic
+resoundingly|adverb || громогласно, решительно || resoundingly; emphatically
+resound|verb || греметь, отдаваться эхом || resound; echo; reverberate
+ordain|verb || посвящать в сан, предписывать || ordain; decree; appoint
+inchoate|adjective || зачаточный, неоформившийся || inchoate; rudimentary; undeveloped
+inchoately|adverb || неоформленно, смутно || inchoately
+elated|adjective || в приподнятом настроении, ликующий || elated; overjoyed; thrilled
+elation|noun || ликование, радостный подъём || elation; joy; euphoria
+hysteria|noun || истерия || hysteria
+hysterical|adjective || истеричный, истерический || hysterical
+hysterically|adverb || истерически, в истерике || hysterically
+jarring|adjective || резкий, режущий слух (дисгармоничный) || jarring; discordant; harsh
+suffuse|verb || заливать (светом, румянцем) || suffuse; flood; permeate
+totter|verb || шататься, пошатываться || totter; wobble; stagger
+pyre|noun || погребальный костёр || pyre
+contemptuous|adjective || презрительный || contemptuous; scornful; disdainful
+contemptuously|adverb || презрительно || contemptuously; scornfully
+forlorn|adjective || заброшенный, несчастный || forlorn; lonely; hopeless
+forlornly|adverb || безнадёжно, одиноко || forlornly; hopelessly
+rebuke|verb || упрекать, делать выговор || rebuke; reprimand; scold
+rebuke|noun || упрёк, выговор || rebuke; reprimand
+abhorrent|adjective || омерзительный, отвратительный || abhorrent; repugnant; detestable
+abhor|verb || питать отвращение, не выносить || abhor; detest; loathe
+abhorrently|adverb || омерзительно || abhorrently
+aberration|noun || отклонение от нормы, аберрация || aberration; deviation; anomaly
+emulsify|verb || эмульгировать || emulsify
+emulsification|noun || эмульгирование || emulsification
+emulsifier|noun || эмульгатор || emulsifier
+additive|noun || добавка (пищевая) || additive
+additive|adjective || аддитивный, добавочный || additive
+confection|noun || кондитерское изделие || confection; sweet; candy
+proximal|adjective || проксимальный, ближайший || proximal; nearest
+vandalize|verb || портить, разрушать из хулиганства || vandalize; vandalise; deface
+vandal|noun || вандал || vandal
+feign|verb || притворяться, симулировать || feign; pretend; fake
+paradoxical|adjective || парадоксальный || paradoxical
+paradoxically|adverb || парадоксальным образом || paradoxically
+laryngitis|noun || ларингит || laryngitis
+stringent|adjective || строгий, жёсткий (о правилах) || stringent; strict; rigorous
+astringent|noun || вяжущее средство || astringent
+stringently|adverb || строго, жёстко || stringently; strictly
+standing|noun || положение, репутация || standing; status; reputation
+economize|verb || экономить, бережливо расходовать || economize; economise; save; cut back
+breadwinner|noun || кормилец семьи || breadwinner
+cosset|verb || холить, баловать || cosset; pamper; coddle
+counsel|noun || совет, адвокат (юрист) || counsel; advice; lawyer
+misdemeanor|noun || проступок, мелкое правонарушение || misdemeanor; misdemeanour; offense
+aptitude|noun || способность, склонность || aptitude; talent; ability
+torrential|adjective || проливной, хлещущий || torrential; pouring; heavy
+banish|verb || изгонять, высылать || banish; exile; expel
+banishment|noun || изгнание, высылка || banishment; exile
+knack|noun || сноровка, умение || knack; skill; gift
+fruition|noun || осуществление, плоды (трудов) || fruition; realization; fulfillment
+tantalize|verb || дразнить, манить (недоступным) || tantalize; tantalise; tease; tempt
+tantalizingly|adverb || дразняще, маняще || tantalizingly; temptingly
+maelstrom|noun || водоворот, круговерть || maelstrom; whirlpool; turmoil
+vortex|noun || вихрь, воронка || vortex; whirlpool
+depressive|adjective || депрессивный, склонный к депрессии || depressive
+shoal|noun || косяк (рыб), мель || shoal; school; sandbank
+scroll|noun || свиток, прокрутка || scroll
+collide|verb || сталкиваться || collide; crash; clash
+collider|noun || коллайдер || collider
+edifice|noun || здание (внушительное), структура || edifice; building; structure
+thicket|noun || чаща, заросли || thicket; copse; brush
+leaven|verb || оживлять, придавать лёгкость || leaven; lighten; enliven
+leavening|noun || закваска, разрыхлитель || leavening; yeast
+ethos|noun || этос, дух (характерные убеждения) || ethos; spirit; character
+interweave|verb || переплетать, вплетать || interweave; intertwine; interlace
+burgeoning|adjective || стремительно растущий, расцветающий || burgeoning; booming; flourishing
+indiscrete|adjective || сплошной, нерасчленённый || indiscrete; undivided
+indiscretion|noun || нескромность, неосмотрительный поступок || indiscretion; slip; lapse
+telescopic|adjective || телескопический, выдвижной || telescopic
+telescopically|adverb || телескопически || telescopically
+amorphous|adjective || аморфный, бесформенный || amorphous; shapeless; formless
+amorphously|adverb || аморфно, бесформенно || amorphously
+hamper|verb || затруднять, мешать || hamper; hinder; impede
+deterrent|noun || сдерживающее средство || deterrent; disincentive
+selectivity|noun || избирательность || selectivity
+fractious|adjective || капризный, раздражительный || fractious; irritable; unruly
+mystique|noun || ореол таинственности, мистика || mystique; aura; allure
+assimilate|verb || усваивать, ассимилировать || assimilate; absorb; integrate
+assimilation|noun || ассимиляция, усвоение || assimilation; absorption
+intersperse|verb || перемежать, вкраплять || intersperse; scatter; interleave
+verbatim|adjective || дословный || verbatim; word-for-word
+verbatim|adverb || дословно, слово в слово || verbatim; word for word
+verily|adverb || воистину, истинно (устар.) || verily; truly; indeed
+veritable|adjective || настоящий, подлинный || veritable; genuine; real
+verisimilitude|noun || правдоподобие || verisimilitude; plausibility
+artifice|noun || хитрость, уловка || artifice; trickery; cunning
+unfeasible|adjective || невыполнимый, неосуществимый || unfeasible; impractical; unworkable
+unfeasibly|adverb || невыполнимо, нереально || unfeasibly; impractically
+behest|noun || повеление, приказ || behest; command; order
+virtuoso|noun || виртуоз || virtuoso; master
+virtuosity|noun || виртуозность || virtuosity; mastery
+cascade|verb || каскадом падать, обрушиваться || cascade; tumble; pour
+crippling|adjective || калечащий, разорительный || crippling; devastating; paralyzing
+nascent|adjective || зарождающийся || nascent; emerging; budding
+smattering|noun || поверхностные знания, малое количество || smattering; little knowledge
+corpus|noun || корпус (текстов), свод || corpus
+wheeze|verb || сипеть, хрипеть (дыша) || wheeze; gasp
+neophyte|noun || новичок, неофит || neophyte; novice; beginner
+coax|verb || уговаривать, добиваться лаской || coax; cajole; persuade
+formidably|adverb || грозно, внушительно || formidably; impressively
+squint|verb || щуриться, косить глазами || squint; peer; narrow one's eyes
+hoist|verb || поднимать (флаг, груз) || hoist; raise; lift
+flatout|adverb || на полной скорости, вовсю || flat out; at full speed
+buzzard|noun || канюк (хищная птица) || buzzard; hawk
+bogus|adjective || фальшивый, липовый || bogus; fake; phony
+derision|noun || насмешка, издёвка || derision; mockery; ridicule
+derisive|adjective || насмешливый, издевательский || derisive; mocking; scornful
+derisively|adverb || насмешливо, с издёвкой || derisively; mockingly
+truism|noun || банальность, трюизм || truism; platitude; cliché
+prurient|adjective || похотливый, сладострастный || prurient; lewd; salacious
+prurience|noun || похотливость, нездоровое любопытство || prurience; lewdness
+tetchy|adjective || раздражительный, обидчивый || tetchy; irritable; touchy
+agile|adjective || проворный, ловкий || agile; nimble; quick
+agility|noun || проворство, ловкость || agility; nimbleness
+aghast|adjective || потрясённый, в ужасе || aghast; horrified; appalled
+dwarf|verb || затмевать, делать карликовым || dwarf; overshadow; tower over
+dwarfism|noun || карликовость || dwarfism
+etch|verb || травить (кислотой), запечатлевать || etch; engrave; imprint
+etching|noun || офорт, гравюра || etching; engraving
+rapture|noun || восторг, упоение || rapture; ecstasy; delight
+rapturous|adjective || восторженный, упоённый || rapturous; ecstatic; euphoric
+rapturously|adverb || восторженно, упоённо || rapturously; ecstatically
+ad lib|adjective || импровизированный, без подготовки || ad-lib; ad lib; improvised
+ad-lib|verb || импровизировать, говорить без подготовки || ad-lib; improvise; wing it
+improvisational|adjective || импровизационный || improvisational; improvised
+acrobatics|noun || акробатика || acrobatics
+acrobatically|adverb || акробатически, ловко || acrobatically
+acrobatic|adjective || акробатический || acrobatic
+arduous|adjective || изнурительный, трудный || arduous; strenuous; grueling
+ardor|noun || пыл, рвение || ardor; ardour; passion; zeal
+arduously|adverb || тяжело, с большим трудом || arduously; strenuously
+counterproductive|adjective || контрпродуктивный || counterproductive
+counterproductively|adverb || контрпродуктивно || counterproductively
+proverbial|adjective || пресловутый, известный как поговорка || proverbial; well-known
+instantaneous|adjective || мгновенный || instantaneous; immediate; instant
+instantaneously|adverb || мгновенно || instantaneously; immediately; instantly
+mull over|verb || обдумывать, размышлять над || mull over; think over; ponder
+ruminate|verb || размышлять, пережёвывать мысль || ruminate; ponder; mull over
+rumination|noun || размышление, жвачка (мыслей) || rumination; reflection
+ruminant|adjective || жвачный || ruminant
+ruminative|adjective || задумчивый, размышляющий || ruminative; pensive; thoughtful
+armory|noun || арсенал, оружейная || armory; armoury; arsenal
+apostle|noun || апостол, ярый сторонник || apostle; disciple; advocate
+blubber|noun || китовый жир, ворчание плачем || blubber
+blubbery|adjective || жирный, оплывший || blubbery; flabby
+trifle|noun || пустяк, мелочь || trifle; triviality; small thing
+trifle|verb || шутить, пренебрегать (мелочью) || trifle; toy; play
+eke out|verb || растягивать (запасы), едва добывать || eke out; stretch; scrape together
+paramount|adjective || первостепенный, главнейший || paramount; supreme; foremost
+squirm|verb || извиваться, ёрзать || squirm; wriggle; fidget
+squirmy|adjective || извивающийся, скользкий || squirmy; wriggly
+floe|noun || льдина || floe; ice floe
+embody|verb || воплощать, олицетворять || embody; personify; represent
+embodiment|noun || воплощение, олицетворение || embodiment; personification
+wistful|adjective || тоскующий, задумчиво-печальный || wistful; yearning; longing
+wistfully|adverb || с тоской, задумчиво-печально || wistfully; longingly
+mercantile|adjective || торговый, меркантильный || mercantile; commercial; trading
+skew|verb || искажать, перекашивать || skew; distort; bias
+subsist|verb || существовать, перебиваться (на скудное) || subsist; survive; get by
+subsistence|noun || средства к существованию, прожиточный минимум || subsistence; survival
+subsidy|noun || субсидия, дотация || subsidy; grant; allowance
+subsidize|verb || субсидировать, финансово поддерживать || subsidize; subsidise; fund
+legion|noun || легион, множество || legion; multitude; host
+confrontational|adjective || конфликтный, агрессивный || confrontational; aggressive; combative
+confrontationally|adverb || конфликтно, агрессивно || confrontationally
+bout|noun || приступ, схватка (спортивная) || bout; attack; spell
+gout|noun || подагра || gout
+hinder|verb || мешать, препятствовать || hinder; hamper; obstruct
+hindrance|noun || помеха, препятствие || hindrance; obstacle; impediment
+myriad|adjective || бесчисленный, несметный || myriad; countless; innumerable
+histrionic|adjective || театральный, наигранный || histrionic; theatrical; melodramatic
+histrionically|adverb || театрально, наигранно || histrionically; theatrically
+marketability|noun || ходовость, рыночная привлекательность || marketability; saleability
+tacit|adjective || молчаливый, негласный (подразумеваемый) || tacit; implicit; unspoken
+tacitly|adverb || молчаливо, негласно || tacitly; implicitly
+taciturn|adjective || неразговорчивый, молчаливый || taciturn; uncommunicative; reserved
+taciturnity|noun || неразговорчивость, молчаливость || taciturnity; reticence
+surreptitious|adjective || тайный, исподтишка || surreptitious; secret; stealthy
+surreptitiously|adverb || тайком, исподтишка || surreptitiously; secretly; stealthily
+allegory|noun || аллегория || allegory
+allegorical|adjective || аллегорический || allegorical
+seedy|adjective || захудалый, обшарпанный || seedy; shabby; run-down
+punitive|adjective || карательный, штрафной || punitive; penal; disciplinary
+punitively|adverb || в наказание, карательно || punitively
+temper|verb || смягчать, закалять || temper; moderate; soften
+milieu|noun || среда, окружение || milieu; environment; setting
+self-aggrandizement|noun || самовозвеличивание || self-aggrandizement; self-promotion
+unadulterated|adjective || неразбавленный, чистый || unadulterated; pure; undiluted
+adulterate|verb || разбавлять, фальсифицировать (продукт) || adulterate; dilute; contaminate
+patronize|verb || относиться свысока, покровительствовать || patronize; patronise; condescend to; talk down to
+patronizing|adjective || снисходительный, покровительственный || patronizing; patronising; condescending
+patronizingly|adverb || снисходительно, свысока || patronizingly; patronisingly; condescendingly
+cogent|adjective || убедительный, веский || cogent; convincing; compelling
+cogently|adverb || убедительно, весомо || cogently; convincingly
+incongruous|adjective || неуместный, нелепо несочетаемый || incongruous; out of place; inappropriate
+incongruously|adverb || неуместно, нелепо || incongruously
+incongruity|noun || несоответствие, нелепость || incongruity; inconsistency
+deaden|verb || заглушать, притуплять || deaden; dull; muffle
+attuned|adjective || настроенный на волну, чутко воспринимающий || attuned; in tune; receptive
+attributive|adjective || атрибутивный (определительный) || attributive
+ecotourism|noun || экотуризм || ecotourism
+surge|verb || хлынуть, резко нарастать || surge; rush; swell
+farcical|adjective || нелепый, фарсовый || farcical; absurd; ridiculous
+incise|verb || надрезать, высекать (узор) || incise; cut; carve
+incipient|adjective || зарождающийся, начальный || incipient; developing; emerging
+echolocation|noun || эхолокация || echolocation
+echolocate|verb || ориентироваться по эху || echolocate
+reverb|noun || реверберация, эффект эха || reverb; echo effect
+reverberation|noun || реверберация, отзвук || reverberation; echo
+reverberate|verb || отдаваться эхом, гулко отзываться || reverberate; echo; resound
+ingenuous|adjective || простодушный, бесхитростный || ingenuous; naive; innocent
+ingenuously|adverb || простодушно, бесхитростно || ingenuously; naively
+impresario|noun || импресарио || impresario; promoter; manager
+elasticity|noun || эластичность, упругость || elasticity; flexibility
+synthesis|noun || синтез || synthesis
+salivary|adjective || слюнный || salivary
+hypnotherapy|noun || гипнотерапия || hypnotherapy
+wholly|adverb || полностью, целиком || wholly; completely; entirely
+remorseful|adjective || раскаивающийся, полный сожаления || remorseful; regretful; sorry
+remonstrance|noun || протест, увещевание || remonstrance; protest; objection
+unexcused|adjective || неоправданный (об отсутствии), без уважительной причины || unexcused
+unexceptionally|adverb || SKIP
+unexceptional|adjective || ничем не выдающийся, заурядный || unexceptional; ordinary; unremarkable
+inexorable|adjective || неумолимый, неотвратимый || inexorable; relentless; unstoppable
+inexorably|adverb || неумолимо, неотвратимо || inexorably; relentlessly
+inexorability|noun || неумолимость, неотвратимость || inexorability
+tranquilize|verb || успокаивать, давать транквилизатор || tranquilize; tranquillise; sedate; calm
